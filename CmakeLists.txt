@@ -1,0 +1,16 @@
+cmake_minimum_required(VERSION 3.10)
+project(PokemonGame CXX)
+
+# Use C++17
+set(CMAKE_CXX_STANDARD 20)
+set(CMAKE_CXX_STANDARD_REQUIRED True)
+
+# Tell the compiler to look inside the "headers" folder for includes
+include_directories(headers)
+
+# List all source files that need to be compiled
+add_executable(main
+    main.cpp
+    source/player.cpp
+    source/pokemon.cpp
+)
