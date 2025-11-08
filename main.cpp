@@ -11,7 +11,7 @@ int main() {
     std::cout << "enter name: ";
     std::cin >> name;
     Player player(name);
-    Pokemon charizard("charizard", Fire);
+    Pokemon charizard("charizard", Types[0]);
     // -------------------------------
 
     while (true)
@@ -51,7 +51,7 @@ Pokemon search_pokemon(int pokemon_level)
     std::cout << "would you like to claim your level : cl or random pull : rp or random fight : rf\n";
 
     if (option == "cl") {
-        
+
     }
 
 }

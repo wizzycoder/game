@@ -1,4 +1,4 @@
-#include "../headers/pokemon.h"
+#include "pokemon.h"
 
 // ...existing code...
 Pokemon::Pokemon(const std::string& name_p, const std::string& type_pokemon_p)
@@ -29,6 +29,5 @@ void random_pokemon(int level)
     }
 
     Pokemon rp(name, Types->at(type_pick));
-    (void)rp; // suppress unused-variable warning
 }
 // ...existing code...

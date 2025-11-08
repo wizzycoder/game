@@ -50,6 +50,30 @@
     "stdexcept": "cpp",
     "streambuf": "cpp",
     "text_encoding": "cpp",
-    "typeinfo": "cpp"
-  }
+    "typeinfo": "cpp",
+    "cstring": "cpp",
+    "ios": "cpp",
+    "list": "cpp",
+    "locale": "cpp",
+    "queue": "cpp",
+    "xfacet": "cpp",
+    "xhash": "cpp",
+    "xiosbase": "cpp",
+    "xlocale": "cpp",
+    "xlocbuf": "cpp",
+    "xlocinfo": "cpp",
+    "xlocmes": "cpp",
+    "xlocmon": "cpp",
+    "xlocnum": "cpp",
+    "xloctime": "cpp",
+    "xmemory": "cpp",
+    "xstring": "cpp",
+    "xtr1common": "cpp",
+    "xtree": "cpp",
+    "xutility": "cpp"
+  },
+  "C_Cpp.codeAnalysis.clangTidy.checks.disabled": [
+    "clang-diagnostic-error",
+    "clang-diagnostic-error"
+  ]
 }
