@@ -539,7 +539,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Program Files (x86)/POKEMON"
+			"value" : "C:/Program Files (x86)/PokemonGame"
 		},
 		{
 			"name" : "CMAKE_LINKER",
@@ -1176,42 +1176,6 @@
 			],
 			"type" : "BOOL",
 			"value" : "FALSE"
-		},
-		{
-			"name" : "POKEMON_BINARY_DIR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "C:/Users/wisdo/Desktop/my_codes/pokemon/build"
-		},
-		{
-			"name" : "POKEMON_IS_TOP_LEVEL",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "ON"
-		},
-		{
-			"name" : "POKEMON_SOURCE_DIR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "C:/Users/wisdo/Desktop/my_codes/pokemon"
 		},
 		{
 			"name" : "PokemonGame_BINARY_DIR",

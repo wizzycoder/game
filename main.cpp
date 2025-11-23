@@ -3,8 +3,6 @@
 #include "pokemon.h"
 #include <vector>
 
-Pokemon search_pokemon(int pokemon_level);
-
 int main() {
     ///    character setup / game stuff
     std::string name;
@@ -45,7 +43,7 @@ int main() {
     }
 };
 
-Pokemon search_pokemon(int pokemon_level)
+/* Pokemon search_pokemon(int pokemon_level)
 {
     std::string option;
     std::cout << "would you like to claim your level : cl or random pull : rp or random fight : rf\n";
@@ -54,4 +52,4 @@ Pokemon search_pokemon(int pokemon_level)
 
     }
 
-}
+}*/
