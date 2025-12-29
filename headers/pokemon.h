@@ -2,20 +2,23 @@
 #define POKEMON_H
 
 #include <map>
+#include <random>
 #include <string>
 #include <variant>
+
 #include "type.h"
-#include <random>
 
 class Pokemon {
-
-public:
+   public:
     const std::string name;
     const std::string type_pokemon;
-    std::map<std::string, std::variant<int, std::string, double>> stats{
-        {"health", 100 },{"power", 10}, {"defense", 10}, {"level", 1}, {"damage", 10} };
+    int health = 100;
+    int power = 10;
+    int defense = 10;
+    int level = 1;
+    int damage = 10;
 
     Pokemon(const std::string& name, const std::string& type_pokemon);
 };
 
-#endif //POKEMON_H
+#endif  // POKEMON_H

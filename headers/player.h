@@ -1,22 +1,26 @@
 #ifndef PLAYER_H
 #define PLAYER_H
 
+#include <iostream>
 #include <map>
 #include <string>
-#include <variant> // Learnt that this helps to store multiple things
+// #include <variant>  Learnt that this helps to store multiple things
 #include <vector>
-#include <iostream>
+
 #include "pokemon.h"
 
 class Player {
-public:
+   public:
     const std::string name;
-    std::map<std::string, std::variant<int, std::string, double>> stats{
-        {"health", 100 },{"power", 10}, {"defense", 10}, {"level", 1}, {"money", 100.00} };
+    int health = 100;
+    int power = 10;
+    int defense = 10;
+    int level = 1;
+    double money = 100.00;
+
     Player(const std::string& name);
 
     std::vector<Pokemon> pokemons;
-    void Show_stats(std::map<std::string, std::variant<int, std::string, double>> stats);
-
+    void Show_stats();
 };
 #endif  // PLAYER_H

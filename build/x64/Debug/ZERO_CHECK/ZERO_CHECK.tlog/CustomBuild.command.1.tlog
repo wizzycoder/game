@@ -1,0 +1,10 @@
+^C:\USERS\WISDO\ONEDRIVE\DESKTOP\MY_CODES\POKEMON\BUILD\CMAKEFILES\4BC96D4D1C5FE9B90D0A95AF5DF3CA69\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/wisdo/OneDrive/Desktop/my_codes/pokemon -BC:/Users/wisdo/OneDrive/Desktop/my_codes/pokemon/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/wisdo/OneDrive/Desktop/my_codes/pokemon/build/PokemonGame.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

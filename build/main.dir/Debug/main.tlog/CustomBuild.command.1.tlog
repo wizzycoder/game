@@ -1,0 +1,10 @@
+^C:\USERS\WISDO\ONEDRIVE\DESKTOP\MY_CODES\POKEMON\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/wisdo/OneDrive/Desktop/my_codes/pokemon -BC:/Users/wisdo/OneDrive/Desktop/my_codes/pokemon/build --check-stamp-file C:/Users/wisdo/OneDrive/Desktop/my_codes/pokemon/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

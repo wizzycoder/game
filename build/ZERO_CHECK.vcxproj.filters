@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\wisdo\OneDrive\Desktop\my_codes\pokemon\build\CMakeFiles\4bc96d4d1c5fe9b90d0a95af5df3ca69\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{302A3BF4-3FA5-38A0-949E-EB280F790BF6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\wisdo\OneDrive\Desktop\my_codes\pokemon\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\wisdo\OneDrive\Desktop\my_codes\pokemon\source\player.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\wisdo\OneDrive\Desktop\my_codes\pokemon\source\pokemon.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\wisdo\OneDrive\Desktop\my_codes\pokemon\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{0B0E2CAA-55DE-30AA-B8A9-D9822F430B96}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -35,7 +35,7 @@ int main() {
         }
         else if (option == "ss") {
             std::cout << "Showing stats...\n";
-            player.Show_stats(player.stats);
+            player.Show_stats();
         }
         else {
             std::cout << "Unknown option: " << option << "\n";
