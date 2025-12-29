@@ -3,13 +3,10 @@
 
 #include <string>
 
-const std::string Types[] = {
-    "Fire",
-    "Water",
-    "Earth",
-    "Air",
-    "Dark"
-};
+enum Types { Water, Earth, Air, Fire, Dark, Light, Thunder, Metal };
 
-constexpr auto TypesCount = sizeof(Types) / sizeof(Types[0]);
-#endif //TYPE_H
+enum Special_Types { Psychic, Colour, Hell_Fire };
+
+Types getRandomType();
+
+#endif  // TYPE_H

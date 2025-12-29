@@ -13,4 +13,5 @@ add_executable(main
     main.cpp
     source/player.cpp
     source/pokemon.cpp
+    source/type.cpp
 )

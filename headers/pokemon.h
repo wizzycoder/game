@@ -11,14 +11,14 @@
 class Pokemon {
    public:
     const std::string name;
-    const std::string type_pokemon;
+    Types type_pokemon;
     int health = 100;
     int power = 10;
     int defense = 10;
     int level = 1;
     int damage = 10;
 
-    Pokemon(const std::string& name, const std::string& type_pokemon);
+    Pokemon(const std::string& name, Types type_pokemon);
 };
 
 #endif  // POKEMON_H

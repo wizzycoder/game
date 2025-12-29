@@ -200,6 +200,30 @@ source/pokemon.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/source/pokemon.cpp.s
 .PHONY : source/pokemon.cpp.s
 
+source/type.obj: source/type.cpp.obj
+.PHONY : source/type.obj
+
+# target to build an object file
+source/type.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/source/type.cpp.obj
+.PHONY : source/type.cpp.obj
+
+source/type.i: source/type.cpp.i
+.PHONY : source/type.i
+
+# target to preprocess a source file
+source/type.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/source/type.cpp.i
+.PHONY : source/type.cpp.i
+
+source/type.s: source/type.cpp.s
+.PHONY : source/type.s
+
+# target to generate assembly for a file
+source/type.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/source/type.cpp.s
+.PHONY : source/type.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -218,6 +242,9 @@ help:
 	@echo ... source/pokemon.obj
 	@echo ... source/pokemon.i
 	@echo ... source/pokemon.s
+	@echo ... source/type.obj
+	@echo ... source/type.i
+	@echo ... source/type.s
 .PHONY : help
 
 

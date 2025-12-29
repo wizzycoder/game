@@ -20,7 +20,8 @@ class Player {
 
     Player(const std::string& name);
 
-    std::vector<Pokemon> pokemons;
+    std::map<std::string, Pokemon> pokedex;
+
     void Show_stats();
 };
 #endif  // PLAYER_H
