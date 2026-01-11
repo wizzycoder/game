@@ -146,6 +146,11 @@ main.exe: CMakeFiles/main.dir/source/player.cpp.obj
 main.exe: CMakeFiles/main.dir/source/pokemon.cpp.obj
 main.exe: CMakeFiles/main.dir/source/type.cpp.obj
 main.exe: CMakeFiles/main.dir/build.make
+main.exe: ftxui-build/libftxui-screen.a
+main.exe: ftxui-build/libftxui-dom.a
+main.exe: ftxui-build/libftxui-component.a
+main.exe: ftxui-build/libftxui-dom.a
+main.exe: ftxui-build/libftxui-screen.a
 main.exe: CMakeFiles/main.dir/linkLibs.rsp
 main.exe: CMakeFiles/main.dir/objects1.rsp
 main.exe: CMakeFiles/main.dir/link.txt

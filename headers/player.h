@@ -16,7 +16,7 @@ class Player {
     int power = 10;
     int defense = 10;
     int level = 1;
-    double money = 100.00;
+    int money = 100;
 
     Player(const std::string& name);
 

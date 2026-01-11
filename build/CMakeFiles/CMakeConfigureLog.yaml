@@ -2674,8 +2674,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "C:/Users/wisdo/OneDrive/Desktop/my_codes/pokemon/build/CMakeFiles/CMakeScratch/TryCompile-d7fxwc"
-      binary: "C:/Users/wisdo/OneDrive/Desktop/my_codes/pokemon/build/CMakeFiles/CMakeScratch/TryCompile-d7fxwc"
+      source: "C:/Users/wisdo/OneDrive/Desktop/my_codes/pokemon/build/CMakeFiles/CMakeScratch/TryCompile-ja1j9a"
+      binary: "C:/Users/wisdo/OneDrive/Desktop/my_codes/pokemon/build/CMakeFiles/CMakeScratch/TryCompile-ja1j9a"
     cmakeVariables:
       CMAKE_CXX_FLAGS: ""
       CMAKE_CXX_FLAGS_DEBUG: "-g"
@@ -2685,13 +2685,13 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/wisdo/OneDrive/Desktop/my_codes/pokemon/build/CMakeFiles/CMakeScratch/TryCompile-d7fxwc'
+        Change Dir: 'C:/Users/wisdo/OneDrive/Desktop/my_codes/pokemon/build/CMakeFiles/CMakeScratch/TryCompile-ja1j9a'
         
-        Run Build Command(s): "C:/Program Files/CMake/bin/cmake.exe" -E env VERBOSE=1 C:/mingw64/bin/mingw32-make.exe -f Makefile cmTC_edf25/fast
-        C:/mingw64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_edf25.dir\\build.make CMakeFiles/cmTC_edf25.dir/build
-        mingw32-make[1]: Entering directory 'C:/Users/wisdo/OneDrive/Desktop/my_codes/pokemon/build/CMakeFiles/CMakeScratch/TryCompile-d7fxwc'
-        Building CXX object CMakeFiles/cmTC_edf25.dir/CMakeCXXCompilerABI.cpp.obj
-        C:\\mingw64\\bin\\g++.exe   -v -o CMakeFiles\\cmTC_edf25.dir\\CMakeCXXCompilerABI.cpp.obj -c "C:\\Program Files\\CMake\\share\\cmake-4.1\\Modules\\CMakeCXXCompilerABI.cpp"
+        Run Build Command(s): "C:/Program Files/CMake/bin/cmake.exe" -E env VERBOSE=1 C:/mingw64/bin/mingw32-make.exe -f Makefile cmTC_a38e1/fast
+        C:/mingw64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_a38e1.dir\\build.make CMakeFiles/cmTC_a38e1.dir/build
+        mingw32-make[1]: Entering directory 'C:/Users/wisdo/OneDrive/Desktop/my_codes/pokemon/build/CMakeFiles/CMakeScratch/TryCompile-ja1j9a'
+        Building CXX object CMakeFiles/cmTC_a38e1.dir/CMakeCXXCompilerABI.cpp.obj
+        C:\\mingw64\\bin\\g++.exe   -v -o CMakeFiles\\cmTC_a38e1.dir\\CMakeCXXCompilerABI.cpp.obj -c "C:\\Program Files\\CMake\\share\\cmake-4.1\\Modules\\CMakeCXXCompilerABI.cpp"
         Using built-in specs.
         COLLECT_GCC=C:\\mingw64\\bin\\g++.exe
         OFFLOAD_TARGET_NAMES=nvptx-none
@@ -2700,8 +2700,8 @@ events:
         Thread model: posix
         Supported LTO compression algorithms: zlib zstd
         gcc version 14.2.0 (MinGW-W64 x86_64-ucrt-posix-seh, built by Brecht Sanders, r3) 
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_edf25.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles\\cmTC_edf25.dir\\'
-         C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/14.2.0/cc1plus.exe -quiet -v -iprefix C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/ -D_REENTRANT C:\\Program Files\\CMake\\share\\cmake-4.1\\Modules\\CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles\\cmTC_edf25.dir\\ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=generic -march=x86-64 -version -o C:\\Users\\wisdo\\AppData\\Local\\Temp\\ccRbvbzt.s
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_a38e1.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles\\cmTC_a38e1.dir\\'
+         C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/14.2.0/cc1plus.exe -quiet -v -iprefix C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/ -D_REENTRANT C:\\Program Files\\CMake\\share\\cmake-4.1\\Modules\\CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles\\cmTC_a38e1.dir\\ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=generic -march=x86-64 -version -o C:\\Users\\wisdo\\AppData\\Local\\Temp\\ccOY3QTe.s
         GNU C++17 (MinGW-W64 x86_64-ucrt-posix-seh, built by Brecht Sanders, r3) version 14.2.0 (x86_64-w64-mingw32)
         	compiled by GNU C version 14.2.0, GMP version 6.3.0, MPFR version 4.2.1, MPC version 1.3.1, isl version isl-0.27-GMP
         
@@ -2726,14 +2726,14 @@ events:
          C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/include
         End of search list.
         Compiler executable checksum: 3da29e1884ee8eb45ff9171cc0f881c4
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_edf25.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles\\cmTC_edf25.dir\\'
-         C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles\\cmTC_edf25.dir\\CMakeCXXCompilerABI.cpp.obj C:\\Users\\wisdo\\AppData\\Local\\Temp\\ccRbvbzt.s
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_a38e1.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles\\cmTC_a38e1.dir\\'
+         C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles\\cmTC_a38e1.dir\\CMakeCXXCompilerABI.cpp.obj C:\\Users\\wisdo\\AppData\\Local\\Temp\\ccOY3QTe.s
         GNU assembler version 2.44 (x86_64-w64-mingw32) using BFD version (Binutils for MinGW-W64 x86_64, built by Brecht Sanders, r3) 2.44
         COMPILER_PATH=C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/14.2.0/;C:/mingw64/bin/../libexec/gcc/;C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/bin/
         LIBRARY_PATH=C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/;C:/mingw64/bin/../lib/gcc/;C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/lib/../lib/;C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../lib/;C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/lib/;C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_edf25.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles\\cmTC_edf25.dir\\CMakeCXXCompilerABI.cpp.'
-        Linking CXX executable cmTC_edf25.exe
-        "C:\\Program Files\\CMake\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_edf25.dir\\link.txt --verbose=1
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_a38e1.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles\\cmTC_a38e1.dir\\CMakeCXXCompilerABI.cpp.'
+        Linking CXX executable cmTC_a38e1.exe
+        "C:\\Program Files\\CMake\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_a38e1.dir\\link.txt --verbose=1
         Using built-in specs.
         COLLECT_GCC=C:\\mingw64\\bin\\g++.exe
         COLLECT_LTO_WRAPPER=C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/14.2.0/lto-wrapper.exe
@@ -2745,16 +2745,16 @@ events:
         gcc version 14.2.0 (MinGW-W64 x86_64-ucrt-posix-seh, built by Brecht Sanders, r3) 
         COMPILER_PATH=C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/14.2.0/;C:/mingw64/bin/../libexec/gcc/;C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/bin/
         LIBRARY_PATH=C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/;C:/mingw64/bin/../lib/gcc/;C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/lib/../lib/;C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../lib/;C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/lib/;C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../
-        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_edf25.exe' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_edf25.'
-         C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/14.2.0/collect2.exe -plugin C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/14.2.0/liblto_plugin.dll -plugin-opt=C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/14.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\wisdo\\AppData\\Local\\Temp\\cc3Qu04Y.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_edf25.exe C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/crtbegin.o -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0 -LC:/mingw64/bin/../lib/gcc -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../lib -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/lib -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../.. -v --whole-archive CMakeFiles\\cmTC_edf25.dir/objects.a --no-whole-archive --out-implib libcmTC_edf25.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/crtend.o
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_a38e1.exe' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_a38e1.'
+         C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/14.2.0/collect2.exe -plugin C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/14.2.0/liblto_plugin.dll -plugin-opt=C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/14.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\wisdo\\AppData\\Local\\Temp\\cc526x5T.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_a38e1.exe C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/crtbegin.o -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0 -LC:/mingw64/bin/../lib/gcc -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../lib -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/lib -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../.. -v --whole-archive CMakeFiles\\cmTC_a38e1.dir/objects.a --no-whole-archive --out-implib libcmTC_a38e1.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/crtend.o
         collect2 version 14.2.0
-        C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/14.2.0/liblto_plugin.dll -plugin-opt=C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/14.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\wisdo\\AppData\\Local\\Temp\\cc3Qu04Y.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_edf25.exe C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/crtbegin.o -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0 -LC:/mingw64/bin/../lib/gcc -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../lib -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/lib -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../.. -v --whole-archive CMakeFiles\\cmTC_edf25.dir/objects.a --no-whole-archive --out-implib libcmTC_edf25.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/crtend.o
+        C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/14.2.0/liblto_plugin.dll -plugin-opt=C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/14.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\wisdo\\AppData\\Local\\Temp\\cc526x5T.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_a38e1.exe C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/crtbegin.o -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0 -LC:/mingw64/bin/../lib/gcc -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../lib -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/lib -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../.. -v --whole-archive CMakeFiles\\cmTC_a38e1.dir/objects.a --no-whole-archive --out-implib libcmTC_a38e1.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/crtend.o
         GNU ld (Binutils for MinGW-W64 x86_64, built by Brecht Sanders, r3) 2.44
-        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_edf25.exe' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_edf25.'
-        "C:\\Program Files\\CMake\\bin\\cmake.exe" -E rm -f CMakeFiles\\cmTC_edf25.dir/objects.a
-        C:\\mingw64\\bin\\ar.exe qc CMakeFiles\\cmTC_edf25.dir/objects.a @CMakeFiles\\cmTC_edf25.dir\\objects1.rsp
-        C:\\mingw64\\bin\\g++.exe  -v -Wl,-v -Wl,--whole-archive CMakeFiles\\cmTC_edf25.dir/objects.a -Wl,--no-whole-archive -o cmTC_edf25.exe -Wl,--out-implib,libcmTC_edf25.dll.a -Wl,--major-image-version,0,--minor-image-version,0
-        mingw32-make[1]: Leaving directory 'C:/Users/wisdo/OneDrive/Desktop/my_codes/pokemon/build/CMakeFiles/CMakeScratch/TryCompile-d7fxwc'
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_a38e1.exe' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_a38e1.'
+        "C:\\Program Files\\CMake\\bin\\cmake.exe" -E rm -f CMakeFiles\\cmTC_a38e1.dir/objects.a
+        C:\\mingw64\\bin\\ar.exe qc CMakeFiles\\cmTC_a38e1.dir/objects.a @CMakeFiles\\cmTC_a38e1.dir\\objects1.rsp
+        C:\\mingw64\\bin\\g++.exe  -v -Wl,-v -Wl,--whole-archive CMakeFiles\\cmTC_a38e1.dir/objects.a -Wl,--no-whole-archive -o cmTC_a38e1.exe -Wl,--out-implib,libcmTC_a38e1.dll.a -Wl,--major-image-version,0,--minor-image-version,0
+        mingw32-make[1]: Leaving directory 'C:/Users/wisdo/OneDrive/Desktop/my_codes/pokemon/build/CMakeFiles/CMakeScratch/TryCompile-ja1j9a'
         
       exitCode: 0
   -
@@ -2795,13 +2795,13 @@ events:
       Parsed CXX implicit link information:
         link line regex: [^( *|.*[/\\])(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
         linker tool regex: [^[ 	]*(->|")?[ 	]*(([^"]*[/\\])?(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)))("|,| |$)]
-        ignore line: [Change Dir: 'C:/Users/wisdo/OneDrive/Desktop/my_codes/pokemon/build/CMakeFiles/CMakeScratch/TryCompile-d7fxwc']
+        ignore line: [Change Dir: 'C:/Users/wisdo/OneDrive/Desktop/my_codes/pokemon/build/CMakeFiles/CMakeScratch/TryCompile-ja1j9a']
         ignore line: []
-        ignore line: [Run Build Command(s): "C:/Program Files/CMake/bin/cmake.exe" -E env VERBOSE=1 C:/mingw64/bin/mingw32-make.exe -f Makefile cmTC_edf25/fast]
-        ignore line: [C:/mingw64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_edf25.dir\\build.make CMakeFiles/cmTC_edf25.dir/build]
-        ignore line: [mingw32-make[1]: Entering directory 'C:/Users/wisdo/OneDrive/Desktop/my_codes/pokemon/build/CMakeFiles/CMakeScratch/TryCompile-d7fxwc']
-        ignore line: [Building CXX object CMakeFiles/cmTC_edf25.dir/CMakeCXXCompilerABI.cpp.obj]
-        ignore line: [C:\\mingw64\\bin\\g++.exe   -v -o CMakeFiles\\cmTC_edf25.dir\\CMakeCXXCompilerABI.cpp.obj -c "C:\\Program Files\\CMake\\share\\cmake-4.1\\Modules\\CMakeCXXCompilerABI.cpp"]
+        ignore line: [Run Build Command(s): "C:/Program Files/CMake/bin/cmake.exe" -E env VERBOSE=1 C:/mingw64/bin/mingw32-make.exe -f Makefile cmTC_a38e1/fast]
+        ignore line: [C:/mingw64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_a38e1.dir\\build.make CMakeFiles/cmTC_a38e1.dir/build]
+        ignore line: [mingw32-make[1]: Entering directory 'C:/Users/wisdo/OneDrive/Desktop/my_codes/pokemon/build/CMakeFiles/CMakeScratch/TryCompile-ja1j9a']
+        ignore line: [Building CXX object CMakeFiles/cmTC_a38e1.dir/CMakeCXXCompilerABI.cpp.obj]
+        ignore line: [C:\\mingw64\\bin\\g++.exe   -v -o CMakeFiles\\cmTC_a38e1.dir\\CMakeCXXCompilerABI.cpp.obj -c "C:\\Program Files\\CMake\\share\\cmake-4.1\\Modules\\CMakeCXXCompilerABI.cpp"]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=C:\\mingw64\\bin\\g++.exe]
         ignore line: [OFFLOAD_TARGET_NAMES=nvptx-none]
@@ -2810,8 +2810,8 @@ events:
         ignore line: [Thread model: posix]
         ignore line: [Supported LTO compression algorithms: zlib zstd]
         ignore line: [gcc version 14.2.0 (MinGW-W64 x86_64-ucrt-posix-seh  built by Brecht Sanders  r3) ]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_edf25.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles\\cmTC_edf25.dir\\']
-        ignore line: [ C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/14.2.0/cc1plus.exe -quiet -v -iprefix C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/ -D_REENTRANT C:\\Program Files\\CMake\\share\\cmake-4.1\\Modules\\CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles\\cmTC_edf25.dir\\ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=generic -march=x86-64 -version -o C:\\Users\\wisdo\\AppData\\Local\\Temp\\ccRbvbzt.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_a38e1.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles\\cmTC_a38e1.dir\\']
+        ignore line: [ C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/14.2.0/cc1plus.exe -quiet -v -iprefix C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/ -D_REENTRANT C:\\Program Files\\CMake\\share\\cmake-4.1\\Modules\\CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles\\cmTC_a38e1.dir\\ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=generic -march=x86-64 -version -o C:\\Users\\wisdo\\AppData\\Local\\Temp\\ccOY3QTe.s]
         ignore line: [GNU C++17 (MinGW-W64 x86_64-ucrt-posix-seh  built by Brecht Sanders  r3) version 14.2.0 (x86_64-w64-mingw32)]
         ignore line: [	compiled by GNU C version 14.2.0  GMP version 6.3.0  MPFR version 4.2.1  MPC version 1.3.1  isl version isl-0.27-GMP]
         ignore line: []
@@ -2836,8 +2836,8 @@ events:
         ignore line: [ C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/include]
         ignore line: [End of search list.]
         ignore line: [Compiler executable checksum: 3da29e1884ee8eb45ff9171cc0f881c4]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_edf25.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles\\cmTC_edf25.dir\\']
-        ignore line: [ C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles\\cmTC_edf25.dir\\CMakeCXXCompilerABI.cpp.obj C:\\Users\\wisdo\\AppData\\Local\\Temp\\ccRbvbzt.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_a38e1.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles\\cmTC_a38e1.dir\\']
+        ignore line: [ C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles\\cmTC_a38e1.dir\\CMakeCXXCompilerABI.cpp.obj C:\\Users\\wisdo\\AppData\\Local\\Temp\\ccOY3QTe.s]
         ignore line: [GNU assembler version 2.44 (x86_64-w64-mingw32) using BFD version (Binutils for MinGW-W64 x86_64  built by Brecht Sanders  r3) 2.44]
         ignore line: [COMPILER_PATH=C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/14.2.0/]
         ignore line: [C:/mingw64/bin/../libexec/gcc/]
@@ -2848,9 +2848,9 @@ events:
         ignore line: [C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../lib/]
         ignore line: [C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/lib/]
         ignore line: [C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_edf25.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles\\cmTC_edf25.dir\\CMakeCXXCompilerABI.cpp.']
-        ignore line: [Linking CXX executable cmTC_edf25.exe]
-        ignore line: ["C:\\Program Files\\CMake\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_edf25.dir\\link.txt --verbose=1]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_a38e1.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'CMakeFiles\\cmTC_a38e1.dir\\CMakeCXXCompilerABI.cpp.']
+        ignore line: [Linking CXX executable cmTC_a38e1.exe]
+        ignore line: ["C:\\Program Files\\CMake\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_a38e1.dir\\link.txt --verbose=1]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=C:\\mingw64\\bin\\g++.exe]
         ignore line: [COLLECT_LTO_WRAPPER=C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/14.2.0/lto-wrapper.exe]
@@ -2869,13 +2869,13 @@ events:
         ignore line: [C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../lib/]
         ignore line: [C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/lib/]
         ignore line: [C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_edf25.exe' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_edf25.']
-        link line: [ C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/14.2.0/collect2.exe -plugin C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/14.2.0/liblto_plugin.dll -plugin-opt=C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/14.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\wisdo\\AppData\\Local\\Temp\\cc3Qu04Y.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_edf25.exe C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/crtbegin.o -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0 -LC:/mingw64/bin/../lib/gcc -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../lib -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/lib -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../.. -v --whole-archive CMakeFiles\\cmTC_edf25.dir/objects.a --no-whole-archive --out-implib libcmTC_edf25.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/crtend.o]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_a38e1.exe' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-dumpdir' 'cmTC_a38e1.']
+        link line: [ C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/14.2.0/collect2.exe -plugin C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/14.2.0/liblto_plugin.dll -plugin-opt=C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/14.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\wisdo\\AppData\\Local\\Temp\\cc526x5T.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_a38e1.exe C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/crtbegin.o -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0 -LC:/mingw64/bin/../lib/gcc -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../lib -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/lib -LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../.. -v --whole-archive CMakeFiles\\cmTC_a38e1.dir/objects.a --no-whole-archive --out-implib libcmTC_a38e1.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/crtend.o]
           arg [C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/14.2.0/collect2.exe] ==> ignore
           arg [-plugin] ==> ignore
           arg [C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/14.2.0/liblto_plugin.dll] ==> ignore
           arg [-plugin-opt=C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/14.2.0/lto-wrapper.exe] ==> ignore
-          arg [-plugin-opt=-fresolution=C:\\Users\\wisdo\\AppData\\Local\\Temp\\cc3Qu04Y.res] ==> ignore
+          arg [-plugin-opt=-fresolution=C:\\Users\\wisdo\\AppData\\Local\\Temp\\cc526x5T.res] ==> ignore
           arg [-plugin-opt=-pass-through=-lmingw32] ==> ignore
           arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
           arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
@@ -2897,7 +2897,7 @@ events:
           arg [i386pep] ==> ignore
           arg [-Bdynamic] ==> search dynamic
           arg [-o] ==> ignore
-          arg [cmTC_edf25.exe] ==> ignore
+          arg [cmTC_a38e1.exe] ==> ignore
           arg [C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o] ==> obj [C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o]
           arg [C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/crtbegin.o] ==> obj [C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/crtbegin.o]
           arg [-LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0] ==> dir [C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0]
@@ -2908,10 +2908,10 @@ events:
           arg [-LC:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../..] ==> dir [C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/14.2.0/../../..]
           arg [-v] ==> ignore
           arg [--whole-archive] ==> ignore
-          arg [CMakeFiles\\cmTC_edf25.dir/objects.a] ==> ignore
+          arg [CMakeFiles\\cmTC_a38e1.dir/objects.a] ==> ignore
           arg [--no-whole-archive] ==> ignore
           arg [--out-implib] ==> ignore
-          arg [libcmTC_edf25.dll.a] ==> ignore
+          arg [libcmTC_a38e1.dll.a] ==> ignore
           arg [--major-image-version] ==> ignore
           arg [0] ==> ignore
           arg [--minor-image-version] ==> ignore
@@ -2983,4 +2983,610 @@ events:
     message: |
       Running the CXX compiler's linker: "Configured with: ../configure --prefix=/R/winlibs_staging_ucrt64/inst_gcc-14.2.0/share/gcc --build=x86_64-w64-mingw32 --host=x86_64-w64-mingw32 --enable-offload-targets=nvptx-none --with-pkgversion='MinGW-W64 x86_64-ucrt-posix-seh, built by Brecht Sanders, r3' --with-tune=generic --enable-checking=release --enable-threads=posix --disable-sjlj-exceptions --disable-libunwind-exceptions --disable-serial-configure --disable-bootstrap --enable-host-shared --enable-plugin --disable-default-ssp --disable-rpath --disable-libstdcxx-debug --disable-version-specific-runtime-libs --disable-symvers --enable-languages=c,c++,fortran,lto,objc,obj-c++ --disable-gold --disable-nls --disable-stage1-checking --disable-win32-registry --disable-multilib --enable-ld --enable-libquadmath --enable-libada --enable-libssp --enable-libstdcxx --enable-lto --enable-fully-dynamic-string --enable-libgomp --enable-graphite --enable-mingw-wildcard --enable-libstdcxx-time --enable-libstdcxx-pch --with-mpc=/c/Prog/winlibs_staging_ucrt/custombuilt64 --with-mpfr=/c/Prog/winlibs_staging_ucrt/custombuilt64 --with-gmp=/c/Prog/winlibs_staging_ucrt/custombuilt64 --with-isl=/c/Prog/winlibs_staging_ucrt/custombuilt64 --disable-libstdcxx-backtrace --enable-install-libiberty --enable-__cxa_atexit --without-included-gettext --with-diagnostics-color=auto --enable-clocale=generic --with-libiconv --with-system-zlib --with-build-sysroot=/R/winlibs_staging_ucrt64/gcc-14.2.0/build_mingw/mingw-w64 CFLAGS='-I/c/Prog/winlibs_staging_ucrt/custombuilt64/include/libdl-win32   -march=nocona -msahf -mtune=generic -O2 -Wno-error=format' CXXFLAGS='-Wno-int-conversion  -march=nocona -msahf -mtune=generic -O2' LDFLAGS='-pthread -Wl,--no-insert-timestamp -Wl,--dynamicbase -Wl,--high-entropy-va -Wl,--nxcompat -Wl,--tsaware' LD=/c/Prog/winlibs_staging_ucrt/custombuilt64/share/binutils/bin/ld.exe" "--version"
       
+  -
+    kind: "find-v1"
+    backtrace:
+      - "C:/Users/wisdo/FTXUI/cmake/ftxui_set_options.cmake:1 (find_program)"
+      - "C:/Users/wisdo/FTXUI/CMakeLists.txt:161 (include)"
+    mode: "program"
+    variable: "CLANG_TIDY_EXE"
+    description: "Path to clang-tidy executable"
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: true
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "clang-tidy"
+    candidate_directories:
+      - "C:/mingw64/bin/"
+      - "C:/usr/bin/"
+      - "C:/Program Files (x86)/oh-my-posh/bin/"
+      - "C:/Windows/System32/"
+      - "C:/Windows/"
+      - "C:/Windows/System32/wbem/"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/"
+      - "C:/Windows/System32/OpenSSH/"
+      - "C:/ProgramData/chocolatey/bin/"
+      - "C:/ProgramData/mingw64/mingw64/bin/"
+      - "C:/Program Files/LLVM/bin/"
+      - "C:/Program Files (x86)/LLVM/bin/"
+      - "C:/Program Files/starship/bin/"
+      - "C:/Program Files/CMake/bin/"
+      - "C:/Program Files/nodejs/"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
+      - "C:/Program Files/Neovim/bin/"
+      - "C:/Program Files/Git/cmd/"
+      - "C:/Program Files/PowerShell/7/"
+      - "C:/Users/wisdo/.cargo/bin/"
+      - "C:/Users/wisdo/AppData/Local/Programs/Python/Python312/Scripts/"
+      - "C:/Users/wisdo/AppData/Local/Programs/Python/Python312/"
+      - "C:/Users/wisdo/AppData/Local/Microsoft/WindowsApps/"
+      - "C:/Users/wisdo/AppData/Local/nvim-data/mason/bin/"
+      - "C:/tools/neovim/nvim-win64/bin/"
+      - "C:/Users/wisdo/AppData/Local/Microsoft/WinGet/Packages/BurntSushi.ripgrep.MSVC_Microsoft.Winget.Source_8wekyb3d8bbwe/ripgrep-15.1.0-x86_64-pc-windows-msvc/"
+      - "C:/Users/wisdo/AppData/Local/Microsoft/WinGet/Packages/JesseDuffield.lazygit_Microsoft.Winget.Source_8wekyb3d8bbwe/"
+      - "C:/Users/wisdo/AppData/Roaming/npm/"
+      - "C:/Users/wisdo/AppData/Local/Microsoft/WinGet/Packages/Helix.Helix_Microsoft.Winget.Source_8wekyb3d8bbwe/helix-25.07.1-x86_64-windows/"
+      - "C:/Users/wisdo/AppData/Local/Programs/Microsoft VS Code/bin/"
+      - "C:/Users/wisdo/AppData/Local/Microsoft/WinGet/Packages/sharkdp.fd_Microsoft.Winget.Source_8wekyb3d8bbwe/fd-v10.3.0-x86_64-pc-windows-msvc/"
+      - "C:/Users/wisdo/AppData/Local/Microsoft/WinGet/Packages/JernejSimoncic.Wget_Microsoft.Winget.Source_8wekyb3d8bbwe/"
+      - "C:/Users/wisdo/AppData/Local/Programs/Microsoft VS Code Insiders/bin/"
+      - "C:/Users/wisdo/AppData/Local/Python/bin/"
+      - "/mingw64/bin/"
+      - "/mingw64/sbin/"
+      - "/mingw64/"
+      - "C:/Program Files/bin/"
+      - "C:/Program Files/sbin/"
+      - "C:/Program Files/"
+      - "C:/Program Files (x86)/bin/"
+      - "C:/Program Files (x86)/sbin/"
+      - "C:/Program Files (x86)/"
+      - "C:/Program Files/CMake/bin/"
+      - "C:/Program Files/CMake/sbin/"
+      - "C:/Program Files/CMake/"
+      - "C:/Program Files (x86)/PokemonGame/bin/"
+      - "C:/Program Files (x86)/PokemonGame/sbin/"
+      - "C:/Program Files (x86)/PokemonGame/"
+    searched_directories:
+      - "C:/mingw64/bin/clang-tidy.com"
+      - "C:/mingw64/bin/clang-tidy.exe"
+      - "C:/mingw64/bin/clang-tidy"
+      - "C:/usr/bin/clang-tidy.com"
+      - "C:/usr/bin/clang-tidy.exe"
+      - "C:/usr/bin/clang-tidy"
+      - "C:/Program Files (x86)/oh-my-posh/bin/clang-tidy.com"
+      - "C:/Program Files (x86)/oh-my-posh/bin/clang-tidy.exe"
+      - "C:/Program Files (x86)/oh-my-posh/bin/clang-tidy"
+      - "C:/Windows/System32/clang-tidy.com"
+      - "C:/Windows/System32/clang-tidy.exe"
+      - "C:/Windows/System32/clang-tidy"
+      - "C:/Windows/clang-tidy.com"
+      - "C:/Windows/clang-tidy.exe"
+      - "C:/Windows/clang-tidy"
+      - "C:/Windows/System32/wbem/clang-tidy.com"
+      - "C:/Windows/System32/wbem/clang-tidy.exe"
+      - "C:/Windows/System32/wbem/clang-tidy"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/clang-tidy.com"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/clang-tidy.exe"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/clang-tidy"
+      - "C:/Windows/System32/OpenSSH/clang-tidy.com"
+      - "C:/Windows/System32/OpenSSH/clang-tidy.exe"
+      - "C:/Windows/System32/OpenSSH/clang-tidy"
+      - "C:/ProgramData/chocolatey/bin/clang-tidy.com"
+      - "C:/ProgramData/chocolatey/bin/clang-tidy.exe"
+      - "C:/ProgramData/chocolatey/bin/clang-tidy"
+      - "C:/ProgramData/mingw64/mingw64/bin/clang-tidy.com"
+      - "C:/ProgramData/mingw64/mingw64/bin/clang-tidy.exe"
+      - "C:/ProgramData/mingw64/mingw64/bin/clang-tidy"
+      - "C:/Program Files/LLVM/bin/clang-tidy.com"
+    found: "C:/Program Files/LLVM/bin/clang-tidy.exe"
+    search_context:
+      ENV{PATH}:
+        - "C:\\mingw64\\bin"
+        - "C:\\mingw64\\bin"
+        - "C:\\mingw64\\bin"
+        - "C:\\usr\\bin"
+        - "C:/Program Files (x86)/oh-my-posh/bin/"
+        - "C:/WINDOWS/system32"
+        - "C:/WINDOWS"
+        - "C:/WINDOWS/System32/Wbem"
+        - "C:/WINDOWS/System32/WindowsPowerShell/v1.0/"
+        - "C:/WINDOWS/System32/OpenSSH/"
+        - "C:/ProgramData/chocolatey/bin"
+        - "C:/ProgramData/mingw64/mingw64/bin"
+        - "C:/Program Files/LLVM/bin"
+        - "C:\\Program Files (x86)\\LLVM\\bin"
+        - "C:/Program Files/starship/bin/"
+        - "C:\\Program Files\\CMake\\bin"
+        - "C:/Program Files/nodejs/"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
+        - "C:/Program Files/Neovim/bin"
+        - "C:\\Program Files\\Git\\cmd"
+        - "C:/Program Files/PowerShell/7/"
+        - "C:\\Program Files (x86)\\oh-my-posh\\bin\\"
+        - "C:\\WINDOWS\\system32"
+        - "C:/WINDOWS"
+        - "C:\\WINDOWS\\System32\\Wbem"
+        - "C:/WINDOWS/System32/WindowsPowerShell/v1.0/"
+        - "C:\\WINDOWS\\System32\\OpenSSH\\"
+        - "C:/Program Files/Neovim/bin"
+        - "C:/ProgramData/chocolatey/bin"
+        - "C:\\Program Files\\Git\\cmd"
+        - "C:\\ProgramData\\mingw64\\mingw64\\bin"
+        - "C:\\Program Files (x86)\\LLVM\\bin"
+        - "C:/Program Files/starship/bin/"
+        - "C:\\Program Files\\CMake\\bin"
+        - "C:/Users/wisdo/.cargo/bin"
+        - "C:\\Users\\wisdo\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\"
+        - "C:/Users/wisdo/AppData/Local/Programs/Python/Python312/"
+        - "C:\\WINDOWS\\system32"
+        - "C:\\WINDOWS"
+        - "C:\\WINDOWS\\System32\\Wbem"
+        - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\WINDOWS\\System32\\OpenSSH\\"
+        - "C:/Program Files/starship/bin/"
+        - "C:\\Program Files\\Git\\cmd"
+        - "C:\\Program Files\\Neovim\\bin"
+        - "C:\\Users\\wisdo\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:/Users/wisdo/AppData/Local/Programs/Python/Python312"
+        - "C:\\Users\\wisdo\\AppData\\Local\\Programs\\Python\\Python312\\Scripts"
+        - "C:/Users/wisdo/AppData/Local/nvim-data/mason/bin"
+        - "C:\\tools\\neovim\\nvim-win64\\bin"
+        - "C:/Users/wisdo/AppData/Local/Microsoft/WinGet/Packages/BurntSushi.ripgrep.MSVC_Microsoft.Winget.Source_8wekyb3d8bbwe/ripgrep-15.1.0-x86_64-pc-windows-msvc"
+        - "C:\\Users\\wisdo\\AppData\\Local\\Microsoft\\WinGet\\Packages\\JesseDuffield.lazygit_Microsoft.Winget.Source_8wekyb3d8bbwe"
+        - "C:/Users/wisdo/.cargo/bin"
+        - "C:\\Users\\wisdo\\AppData\\Roaming\\npm"
+        - "C:/Users/wisdo/AppData/Local/Microsoft/WinGet/Packages/Helix.Helix_Microsoft.Winget.Source_8wekyb3d8bbwe/helix-25.07.1-x86_64-windows"
+        - "C:\\Users\\wisdo\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
+        - "C:/mingw64/bin"
+        - "C:\\Users\\wisdo\\AppData\\Local\\Microsoft\\WinGet\\Packages\\sharkdp.fd_Microsoft.Winget.Source_8wekyb3d8bbwe\\fd-v10.3.0-x86_64-pc-windows-msvc"
+        - "C:/Users/wisdo/AppData/Local/Microsoft/WinGet/Packages/JernejSimoncic.Wget_Microsoft.Winget.Source_8wekyb3d8bbwe"
+        - "C:\\Users\\wisdo\\AppData\\Local\\Programs\\Microsoft VS Code Insiders\\bin"
+        - "C:/Users/wisdo/AppData/Local/Python/bin"
+      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/PokemonGame"
+      CMAKE_SYSTEM_PREFIX_PATH:
+        - "/mingw64"
+        - "C:/Program Files"
+        - "C:/Program Files (x86)"
+        - "C:/Program Files/CMake"
+        - "C:/Program Files (x86)/PokemonGame"
+  -
+    kind: "find-v1"
+    backtrace:
+      - "C:/Users/wisdo/FTXUI/cmake/iwyu.cmake:1 (find_program)"
+      - "C:/Users/wisdo/FTXUI/CMakeLists.txt:174 (include)"
+    mode: "program"
+    variable: "iwyu_path"
+    description: "Path to a program."
+    settings:
+      SearchFramework: "NEVER"
+      SearchAppBundle: "NEVER"
+      CMAKE_FIND_USE_CMAKE_PATH: true
+      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+      CMAKE_FIND_USE_INSTALL_PREFIX: true
+    names:
+      - "include-what-you-use"
+      - "iwyu"
+    candidate_directories:
+      - "C:/mingw64/bin/"
+      - "C:/usr/bin/"
+      - "C:/Program Files (x86)/oh-my-posh/bin/"
+      - "C:/Windows/System32/"
+      - "C:/Windows/"
+      - "C:/Windows/System32/wbem/"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/"
+      - "C:/Windows/System32/OpenSSH/"
+      - "C:/ProgramData/chocolatey/bin/"
+      - "C:/ProgramData/mingw64/mingw64/bin/"
+      - "C:/Program Files/LLVM/bin/"
+      - "C:/Program Files (x86)/LLVM/bin/"
+      - "C:/Program Files/starship/bin/"
+      - "C:/Program Files/CMake/bin/"
+      - "C:/Program Files/nodejs/"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
+      - "C:/Program Files/Neovim/bin/"
+      - "C:/Program Files/Git/cmd/"
+      - "C:/Program Files/PowerShell/7/"
+      - "C:/Users/wisdo/.cargo/bin/"
+      - "C:/Users/wisdo/AppData/Local/Programs/Python/Python312/Scripts/"
+      - "C:/Users/wisdo/AppData/Local/Programs/Python/Python312/"
+      - "C:/Users/wisdo/AppData/Local/Microsoft/WindowsApps/"
+      - "C:/Users/wisdo/AppData/Local/nvim-data/mason/bin/"
+      - "C:/tools/neovim/nvim-win64/bin/"
+      - "C:/Users/wisdo/AppData/Local/Microsoft/WinGet/Packages/BurntSushi.ripgrep.MSVC_Microsoft.Winget.Source_8wekyb3d8bbwe/ripgrep-15.1.0-x86_64-pc-windows-msvc/"
+      - "C:/Users/wisdo/AppData/Local/Microsoft/WinGet/Packages/JesseDuffield.lazygit_Microsoft.Winget.Source_8wekyb3d8bbwe/"
+      - "C:/Users/wisdo/AppData/Roaming/npm/"
+      - "C:/Users/wisdo/AppData/Local/Microsoft/WinGet/Packages/Helix.Helix_Microsoft.Winget.Source_8wekyb3d8bbwe/helix-25.07.1-x86_64-windows/"
+      - "C:/Users/wisdo/AppData/Local/Programs/Microsoft VS Code/bin/"
+      - "C:/Users/wisdo/AppData/Local/Microsoft/WinGet/Packages/sharkdp.fd_Microsoft.Winget.Source_8wekyb3d8bbwe/fd-v10.3.0-x86_64-pc-windows-msvc/"
+      - "C:/Users/wisdo/AppData/Local/Microsoft/WinGet/Packages/JernejSimoncic.Wget_Microsoft.Winget.Source_8wekyb3d8bbwe/"
+      - "C:/Users/wisdo/AppData/Local/Programs/Microsoft VS Code Insiders/bin/"
+      - "C:/Users/wisdo/AppData/Local/Python/bin/"
+      - "/mingw64/bin/"
+      - "/mingw64/sbin/"
+      - "/mingw64/"
+      - "C:/Program Files/bin/"
+      - "C:/Program Files/sbin/"
+      - "C:/Program Files/"
+      - "C:/Program Files (x86)/bin/"
+      - "C:/Program Files (x86)/sbin/"
+      - "C:/Program Files (x86)/"
+      - "C:/Program Files/CMake/bin/"
+      - "C:/Program Files/CMake/sbin/"
+      - "C:/Program Files/CMake/"
+      - "C:/Program Files (x86)/PokemonGame/bin/"
+      - "C:/Program Files (x86)/PokemonGame/sbin/"
+      - "C:/Program Files (x86)/PokemonGame/"
+    searched_directories:
+      - "C:/mingw64/bin/include-what-you-use.com"
+      - "C:/mingw64/bin/include-what-you-use.exe"
+      - "C:/mingw64/bin/include-what-you-use"
+      - "C:/usr/bin/include-what-you-use.com"
+      - "C:/usr/bin/include-what-you-use.exe"
+      - "C:/usr/bin/include-what-you-use"
+      - "C:/Program Files (x86)/oh-my-posh/bin/include-what-you-use.com"
+      - "C:/Program Files (x86)/oh-my-posh/bin/include-what-you-use.exe"
+      - "C:/Program Files (x86)/oh-my-posh/bin/include-what-you-use"
+      - "C:/Windows/System32/include-what-you-use.com"
+      - "C:/Windows/System32/include-what-you-use.exe"
+      - "C:/Windows/System32/include-what-you-use"
+      - "C:/Windows/include-what-you-use.com"
+      - "C:/Windows/include-what-you-use.exe"
+      - "C:/Windows/include-what-you-use"
+      - "C:/Windows/System32/wbem/include-what-you-use.com"
+      - "C:/Windows/System32/wbem/include-what-you-use.exe"
+      - "C:/Windows/System32/wbem/include-what-you-use"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/include-what-you-use.com"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/include-what-you-use.exe"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/include-what-you-use"
+      - "C:/Windows/System32/OpenSSH/include-what-you-use.com"
+      - "C:/Windows/System32/OpenSSH/include-what-you-use.exe"
+      - "C:/Windows/System32/OpenSSH/include-what-you-use"
+      - "C:/ProgramData/chocolatey/bin/include-what-you-use.com"
+      - "C:/ProgramData/chocolatey/bin/include-what-you-use.exe"
+      - "C:/ProgramData/chocolatey/bin/include-what-you-use"
+      - "C:/ProgramData/mingw64/mingw64/bin/include-what-you-use.com"
+      - "C:/ProgramData/mingw64/mingw64/bin/include-what-you-use.exe"
+      - "C:/ProgramData/mingw64/mingw64/bin/include-what-you-use"
+      - "C:/Program Files/LLVM/bin/include-what-you-use.com"
+      - "C:/Program Files/LLVM/bin/include-what-you-use.exe"
+      - "C:/Program Files/LLVM/bin/include-what-you-use"
+      - "C:/Program Files (x86)/LLVM/bin/include-what-you-use.com"
+      - "C:/Program Files (x86)/LLVM/bin/include-what-you-use.exe"
+      - "C:/Program Files (x86)/LLVM/bin/include-what-you-use"
+      - "C:/Program Files/starship/bin/include-what-you-use.com"
+      - "C:/Program Files/starship/bin/include-what-you-use.exe"
+      - "C:/Program Files/starship/bin/include-what-you-use"
+      - "C:/Program Files/CMake/bin/include-what-you-use.com"
+      - "C:/Program Files/CMake/bin/include-what-you-use.exe"
+      - "C:/Program Files/CMake/bin/include-what-you-use"
+      - "C:/Program Files/nodejs/include-what-you-use.com"
+      - "C:/Program Files/nodejs/include-what-you-use.exe"
+      - "C:/Program Files/nodejs/include-what-you-use"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/include-what-you-use.com"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/include-what-you-use.exe"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/include-what-you-use"
+      - "C:/Program Files/Neovim/bin/include-what-you-use.com"
+      - "C:/Program Files/Neovim/bin/include-what-you-use.exe"
+      - "C:/Program Files/Neovim/bin/include-what-you-use"
+      - "C:/Program Files/Git/cmd/include-what-you-use.com"
+      - "C:/Program Files/Git/cmd/include-what-you-use.exe"
+      - "C:/Program Files/Git/cmd/include-what-you-use"
+      - "C:/Program Files/PowerShell/7/include-what-you-use.com"
+      - "C:/Program Files/PowerShell/7/include-what-you-use.exe"
+      - "C:/Program Files/PowerShell/7/include-what-you-use"
+      - "C:/Users/wisdo/.cargo/bin/include-what-you-use.com"
+      - "C:/Users/wisdo/.cargo/bin/include-what-you-use.exe"
+      - "C:/Users/wisdo/.cargo/bin/include-what-you-use"
+      - "C:/Users/wisdo/AppData/Local/Programs/Python/Python312/Scripts/include-what-you-use.com"
+      - "C:/Users/wisdo/AppData/Local/Programs/Python/Python312/Scripts/include-what-you-use.exe"
+      - "C:/Users/wisdo/AppData/Local/Programs/Python/Python312/Scripts/include-what-you-use"
+      - "C:/Users/wisdo/AppData/Local/Programs/Python/Python312/include-what-you-use.com"
+      - "C:/Users/wisdo/AppData/Local/Programs/Python/Python312/include-what-you-use.exe"
+      - "C:/Users/wisdo/AppData/Local/Programs/Python/Python312/include-what-you-use"
+      - "C:/Users/wisdo/AppData/Local/Microsoft/WindowsApps/include-what-you-use.com"
+      - "C:/Users/wisdo/AppData/Local/Microsoft/WindowsApps/include-what-you-use.exe"
+      - "C:/Users/wisdo/AppData/Local/Microsoft/WindowsApps/include-what-you-use"
+      - "C:/Users/wisdo/AppData/Local/nvim-data/mason/bin/include-what-you-use.com"
+      - "C:/Users/wisdo/AppData/Local/nvim-data/mason/bin/include-what-you-use.exe"
+      - "C:/Users/wisdo/AppData/Local/nvim-data/mason/bin/include-what-you-use"
+      - "C:/tools/neovim/nvim-win64/bin/include-what-you-use.com"
+      - "C:/tools/neovim/nvim-win64/bin/include-what-you-use.exe"
+      - "C:/tools/neovim/nvim-win64/bin/include-what-you-use"
+      - "C:/Users/wisdo/AppData/Local/Microsoft/WinGet/Packages/BurntSushi.ripgrep.MSVC_Microsoft.Winget.Source_8wekyb3d8bbwe/ripgrep-15.1.0-x86_64-pc-windows-msvc/include-what-you-use.com"
+      - "C:/Users/wisdo/AppData/Local/Microsoft/WinGet/Packages/BurntSushi.ripgrep.MSVC_Microsoft.Winget.Source_8wekyb3d8bbwe/ripgrep-15.1.0-x86_64-pc-windows-msvc/include-what-you-use.exe"
+      - "C:/Users/wisdo/AppData/Local/Microsoft/WinGet/Packages/BurntSushi.ripgrep.MSVC_Microsoft.Winget.Source_8wekyb3d8bbwe/ripgrep-15.1.0-x86_64-pc-windows-msvc/include-what-you-use"
+      - "C:/Users/wisdo/AppData/Local/Microsoft/WinGet/Packages/JesseDuffield.lazygit_Microsoft.Winget.Source_8wekyb3d8bbwe/include-what-you-use.com"
+      - "C:/Users/wisdo/AppData/Local/Microsoft/WinGet/Packages/JesseDuffield.lazygit_Microsoft.Winget.Source_8wekyb3d8bbwe/include-what-you-use.exe"
+      - "C:/Users/wisdo/AppData/Local/Microsoft/WinGet/Packages/JesseDuffield.lazygit_Microsoft.Winget.Source_8wekyb3d8bbwe/include-what-you-use"
+      - "C:/Users/wisdo/AppData/Roaming/npm/include-what-you-use.com"
+      - "C:/Users/wisdo/AppData/Roaming/npm/include-what-you-use.exe"
+      - "C:/Users/wisdo/AppData/Roaming/npm/include-what-you-use"
+      - "C:/Users/wisdo/AppData/Local/Microsoft/WinGet/Packages/Helix.Helix_Microsoft.Winget.Source_8wekyb3d8bbwe/helix-25.07.1-x86_64-windows/include-what-you-use.com"
+      - "C:/Users/wisdo/AppData/Local/Microsoft/WinGet/Packages/Helix.Helix_Microsoft.Winget.Source_8wekyb3d8bbwe/helix-25.07.1-x86_64-windows/include-what-you-use.exe"
+      - "C:/Users/wisdo/AppData/Local/Microsoft/WinGet/Packages/Helix.Helix_Microsoft.Winget.Source_8wekyb3d8bbwe/helix-25.07.1-x86_64-windows/include-what-you-use"
+      - "C:/Users/wisdo/AppData/Local/Programs/Microsoft VS Code/bin/include-what-you-use.com"
+      - "C:/Users/wisdo/AppData/Local/Programs/Microsoft VS Code/bin/include-what-you-use.exe"
+      - "C:/Users/wisdo/AppData/Local/Programs/Microsoft VS Code/bin/include-what-you-use"
+      - "C:/Users/wisdo/AppData/Local/Microsoft/WinGet/Packages/sharkdp.fd_Microsoft.Winget.Source_8wekyb3d8bbwe/fd-v10.3.0-x86_64-pc-windows-msvc/include-what-you-use.com"
+      - "C:/Users/wisdo/AppData/Local/Microsoft/WinGet/Packages/sharkdp.fd_Microsoft.Winget.Source_8wekyb3d8bbwe/fd-v10.3.0-x86_64-pc-windows-msvc/include-what-you-use.exe"
+      - "C:/Users/wisdo/AppData/Local/Microsoft/WinGet/Packages/sharkdp.fd_Microsoft.Winget.Source_8wekyb3d8bbwe/fd-v10.3.0-x86_64-pc-windows-msvc/include-what-you-use"
+      - "C:/Users/wisdo/AppData/Local/Microsoft/WinGet/Packages/JernejSimoncic.Wget_Microsoft.Winget.Source_8wekyb3d8bbwe/include-what-you-use.com"
+      - "C:/Users/wisdo/AppData/Local/Microsoft/WinGet/Packages/JernejSimoncic.Wget_Microsoft.Winget.Source_8wekyb3d8bbwe/include-what-you-use.exe"
+      - "C:/Users/wisdo/AppData/Local/Microsoft/WinGet/Packages/JernejSimoncic.Wget_Microsoft.Winget.Source_8wekyb3d8bbwe/include-what-you-use"
+      - "C:/Users/wisdo/AppData/Local/Programs/Microsoft VS Code Insiders/bin/include-what-you-use.com"
+      - "C:/Users/wisdo/AppData/Local/Programs/Microsoft VS Code Insiders/bin/include-what-you-use.exe"
+      - "C:/Users/wisdo/AppData/Local/Programs/Microsoft VS Code Insiders/bin/include-what-you-use"
+      - "C:/Users/wisdo/AppData/Local/Python/bin/include-what-you-use.com"
+      - "C:/Users/wisdo/AppData/Local/Python/bin/include-what-you-use.exe"
+      - "C:/Users/wisdo/AppData/Local/Python/bin/include-what-you-use"
+      - "/mingw64/bin/include-what-you-use.com"
+      - "/mingw64/bin/include-what-you-use.exe"
+      - "/mingw64/bin/include-what-you-use"
+      - "/mingw64/sbin/include-what-you-use.com"
+      - "/mingw64/sbin/include-what-you-use.exe"
+      - "/mingw64/sbin/include-what-you-use"
+      - "/mingw64/include-what-you-use.com"
+      - "/mingw64/include-what-you-use.exe"
+      - "/mingw64/include-what-you-use"
+      - "C:/Program Files/bin/include-what-you-use.com"
+      - "C:/Program Files/bin/include-what-you-use.exe"
+      - "C:/Program Files/bin/include-what-you-use"
+      - "C:/Program Files/sbin/include-what-you-use.com"
+      - "C:/Program Files/sbin/include-what-you-use.exe"
+      - "C:/Program Files/sbin/include-what-you-use"
+      - "C:/Program Files/include-what-you-use.com"
+      - "C:/Program Files/include-what-you-use.exe"
+      - "C:/Program Files/include-what-you-use"
+      - "C:/Program Files (x86)/bin/include-what-you-use.com"
+      - "C:/Program Files (x86)/bin/include-what-you-use.exe"
+      - "C:/Program Files (x86)/bin/include-what-you-use"
+      - "C:/Program Files (x86)/sbin/include-what-you-use.com"
+      - "C:/Program Files (x86)/sbin/include-what-you-use.exe"
+      - "C:/Program Files (x86)/sbin/include-what-you-use"
+      - "C:/Program Files (x86)/include-what-you-use.com"
+      - "C:/Program Files (x86)/include-what-you-use.exe"
+      - "C:/Program Files (x86)/include-what-you-use"
+      - "C:/Program Files/CMake/bin/include-what-you-use.com"
+      - "C:/Program Files/CMake/bin/include-what-you-use.exe"
+      - "C:/Program Files/CMake/bin/include-what-you-use"
+      - "C:/Program Files/CMake/sbin/include-what-you-use.com"
+      - "C:/Program Files/CMake/sbin/include-what-you-use.exe"
+      - "C:/Program Files/CMake/sbin/include-what-you-use"
+      - "C:/Program Files/CMake/include-what-you-use.com"
+      - "C:/Program Files/CMake/include-what-you-use.exe"
+      - "C:/Program Files/CMake/include-what-you-use"
+      - "C:/Program Files (x86)/PokemonGame/bin/include-what-you-use.com"
+      - "C:/Program Files (x86)/PokemonGame/bin/include-what-you-use.exe"
+      - "C:/Program Files (x86)/PokemonGame/bin/include-what-you-use"
+      - "C:/Program Files (x86)/PokemonGame/sbin/include-what-you-use.com"
+      - "C:/Program Files (x86)/PokemonGame/sbin/include-what-you-use.exe"
+      - "C:/Program Files (x86)/PokemonGame/sbin/include-what-you-use"
+      - "C:/Program Files (x86)/PokemonGame/include-what-you-use.com"
+      - "C:/Program Files (x86)/PokemonGame/include-what-you-use.exe"
+      - "C:/Program Files (x86)/PokemonGame/include-what-you-use"
+      - "C:/mingw64/bin/iwyu.com"
+      - "C:/mingw64/bin/iwyu.exe"
+      - "C:/mingw64/bin/iwyu"
+      - "C:/usr/bin/iwyu.com"
+      - "C:/usr/bin/iwyu.exe"
+      - "C:/usr/bin/iwyu"
+      - "C:/Program Files (x86)/oh-my-posh/bin/iwyu.com"
+      - "C:/Program Files (x86)/oh-my-posh/bin/iwyu.exe"
+      - "C:/Program Files (x86)/oh-my-posh/bin/iwyu"
+      - "C:/Windows/System32/iwyu.com"
+      - "C:/Windows/System32/iwyu.exe"
+      - "C:/Windows/System32/iwyu"
+      - "C:/Windows/iwyu.com"
+      - "C:/Windows/iwyu.exe"
+      - "C:/Windows/iwyu"
+      - "C:/Windows/System32/wbem/iwyu.com"
+      - "C:/Windows/System32/wbem/iwyu.exe"
+      - "C:/Windows/System32/wbem/iwyu"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/iwyu.com"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/iwyu.exe"
+      - "C:/Windows/System32/WindowsPowerShell/v1.0/iwyu"
+      - "C:/Windows/System32/OpenSSH/iwyu.com"
+      - "C:/Windows/System32/OpenSSH/iwyu.exe"
+      - "C:/Windows/System32/OpenSSH/iwyu"
+      - "C:/ProgramData/chocolatey/bin/iwyu.com"
+      - "C:/ProgramData/chocolatey/bin/iwyu.exe"
+      - "C:/ProgramData/chocolatey/bin/iwyu"
+      - "C:/ProgramData/mingw64/mingw64/bin/iwyu.com"
+      - "C:/ProgramData/mingw64/mingw64/bin/iwyu.exe"
+      - "C:/ProgramData/mingw64/mingw64/bin/iwyu"
+      - "C:/Program Files/LLVM/bin/iwyu.com"
+      - "C:/Program Files/LLVM/bin/iwyu.exe"
+      - "C:/Program Files/LLVM/bin/iwyu"
+      - "C:/Program Files (x86)/LLVM/bin/iwyu.com"
+      - "C:/Program Files (x86)/LLVM/bin/iwyu.exe"
+      - "C:/Program Files (x86)/LLVM/bin/iwyu"
+      - "C:/Program Files/starship/bin/iwyu.com"
+      - "C:/Program Files/starship/bin/iwyu.exe"
+      - "C:/Program Files/starship/bin/iwyu"
+      - "C:/Program Files/CMake/bin/iwyu.com"
+      - "C:/Program Files/CMake/bin/iwyu.exe"
+      - "C:/Program Files/CMake/bin/iwyu"
+      - "C:/Program Files/nodejs/iwyu.com"
+      - "C:/Program Files/nodejs/iwyu.exe"
+      - "C:/Program Files/nodejs/iwyu"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/iwyu.com"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/iwyu.exe"
+      - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/iwyu"
+      - "C:/Program Files/Neovim/bin/iwyu.com"
+      - "C:/Program Files/Neovim/bin/iwyu.exe"
+      - "C:/Program Files/Neovim/bin/iwyu"
+      - "C:/Program Files/Git/cmd/iwyu.com"
+      - "C:/Program Files/Git/cmd/iwyu.exe"
+      - "C:/Program Files/Git/cmd/iwyu"
+      - "C:/Program Files/PowerShell/7/iwyu.com"
+      - "C:/Program Files/PowerShell/7/iwyu.exe"
+      - "C:/Program Files/PowerShell/7/iwyu"
+      - "C:/Users/wisdo/.cargo/bin/iwyu.com"
+      - "C:/Users/wisdo/.cargo/bin/iwyu.exe"
+      - "C:/Users/wisdo/.cargo/bin/iwyu"
+      - "C:/Users/wisdo/AppData/Local/Programs/Python/Python312/Scripts/iwyu.com"
+      - "C:/Users/wisdo/AppData/Local/Programs/Python/Python312/Scripts/iwyu.exe"
+      - "C:/Users/wisdo/AppData/Local/Programs/Python/Python312/Scripts/iwyu"
+      - "C:/Users/wisdo/AppData/Local/Programs/Python/Python312/iwyu.com"
+      - "C:/Users/wisdo/AppData/Local/Programs/Python/Python312/iwyu.exe"
+      - "C:/Users/wisdo/AppData/Local/Programs/Python/Python312/iwyu"
+      - "C:/Users/wisdo/AppData/Local/Microsoft/WindowsApps/iwyu.com"
+      - "C:/Users/wisdo/AppData/Local/Microsoft/WindowsApps/iwyu.exe"
+      - "C:/Users/wisdo/AppData/Local/Microsoft/WindowsApps/iwyu"
+      - "C:/Users/wisdo/AppData/Local/nvim-data/mason/bin/iwyu.com"
+      - "C:/Users/wisdo/AppData/Local/nvim-data/mason/bin/iwyu.exe"
+      - "C:/Users/wisdo/AppData/Local/nvim-data/mason/bin/iwyu"
+      - "C:/tools/neovim/nvim-win64/bin/iwyu.com"
+      - "C:/tools/neovim/nvim-win64/bin/iwyu.exe"
+      - "C:/tools/neovim/nvim-win64/bin/iwyu"
+      - "C:/Users/wisdo/AppData/Local/Microsoft/WinGet/Packages/BurntSushi.ripgrep.MSVC_Microsoft.Winget.Source_8wekyb3d8bbwe/ripgrep-15.1.0-x86_64-pc-windows-msvc/iwyu.com"
+      - "C:/Users/wisdo/AppData/Local/Microsoft/WinGet/Packages/BurntSushi.ripgrep.MSVC_Microsoft.Winget.Source_8wekyb3d8bbwe/ripgrep-15.1.0-x86_64-pc-windows-msvc/iwyu.exe"
+      - "C:/Users/wisdo/AppData/Local/Microsoft/WinGet/Packages/BurntSushi.ripgrep.MSVC_Microsoft.Winget.Source_8wekyb3d8bbwe/ripgrep-15.1.0-x86_64-pc-windows-msvc/iwyu"
+      - "C:/Users/wisdo/AppData/Local/Microsoft/WinGet/Packages/JesseDuffield.lazygit_Microsoft.Winget.Source_8wekyb3d8bbwe/iwyu.com"
+      - "C:/Users/wisdo/AppData/Local/Microsoft/WinGet/Packages/JesseDuffield.lazygit_Microsoft.Winget.Source_8wekyb3d8bbwe/iwyu.exe"
+      - "C:/Users/wisdo/AppData/Local/Microsoft/WinGet/Packages/JesseDuffield.lazygit_Microsoft.Winget.Source_8wekyb3d8bbwe/iwyu"
+      - "C:/Users/wisdo/AppData/Roaming/npm/iwyu.com"
+      - "C:/Users/wisdo/AppData/Roaming/npm/iwyu.exe"
+      - "C:/Users/wisdo/AppData/Roaming/npm/iwyu"
+      - "C:/Users/wisdo/AppData/Local/Microsoft/WinGet/Packages/Helix.Helix_Microsoft.Winget.Source_8wekyb3d8bbwe/helix-25.07.1-x86_64-windows/iwyu.com"
+      - "C:/Users/wisdo/AppData/Local/Microsoft/WinGet/Packages/Helix.Helix_Microsoft.Winget.Source_8wekyb3d8bbwe/helix-25.07.1-x86_64-windows/iwyu.exe"
+      - "C:/Users/wisdo/AppData/Local/Microsoft/WinGet/Packages/Helix.Helix_Microsoft.Winget.Source_8wekyb3d8bbwe/helix-25.07.1-x86_64-windows/iwyu"
+      - "C:/Users/wisdo/AppData/Local/Programs/Microsoft VS Code/bin/iwyu.com"
+      - "C:/Users/wisdo/AppData/Local/Programs/Microsoft VS Code/bin/iwyu.exe"
+      - "C:/Users/wisdo/AppData/Local/Programs/Microsoft VS Code/bin/iwyu"
+      - "C:/Users/wisdo/AppData/Local/Microsoft/WinGet/Packages/sharkdp.fd_Microsoft.Winget.Source_8wekyb3d8bbwe/fd-v10.3.0-x86_64-pc-windows-msvc/iwyu.com"
+      - "C:/Users/wisdo/AppData/Local/Microsoft/WinGet/Packages/sharkdp.fd_Microsoft.Winget.Source_8wekyb3d8bbwe/fd-v10.3.0-x86_64-pc-windows-msvc/iwyu.exe"
+      - "C:/Users/wisdo/AppData/Local/Microsoft/WinGet/Packages/sharkdp.fd_Microsoft.Winget.Source_8wekyb3d8bbwe/fd-v10.3.0-x86_64-pc-windows-msvc/iwyu"
+      - "C:/Users/wisdo/AppData/Local/Microsoft/WinGet/Packages/JernejSimoncic.Wget_Microsoft.Winget.Source_8wekyb3d8bbwe/iwyu.com"
+      - "C:/Users/wisdo/AppData/Local/Microsoft/WinGet/Packages/JernejSimoncic.Wget_Microsoft.Winget.Source_8wekyb3d8bbwe/iwyu.exe"
+      - "C:/Users/wisdo/AppData/Local/Microsoft/WinGet/Packages/JernejSimoncic.Wget_Microsoft.Winget.Source_8wekyb3d8bbwe/iwyu"
+      - "C:/Users/wisdo/AppData/Local/Programs/Microsoft VS Code Insiders/bin/iwyu.com"
+      - "C:/Users/wisdo/AppData/Local/Programs/Microsoft VS Code Insiders/bin/iwyu.exe"
+      - "C:/Users/wisdo/AppData/Local/Programs/Microsoft VS Code Insiders/bin/iwyu"
+      - "C:/Users/wisdo/AppData/Local/Python/bin/iwyu.com"
+      - "C:/Users/wisdo/AppData/Local/Python/bin/iwyu.exe"
+      - "C:/Users/wisdo/AppData/Local/Python/bin/iwyu"
+      - "/mingw64/bin/iwyu.com"
+      - "/mingw64/bin/iwyu.exe"
+      - "/mingw64/bin/iwyu"
+      - "/mingw64/sbin/iwyu.com"
+      - "/mingw64/sbin/iwyu.exe"
+      - "/mingw64/sbin/iwyu"
+      - "/mingw64/iwyu.com"
+      - "/mingw64/iwyu.exe"
+      - "/mingw64/iwyu"
+      - "C:/Program Files/bin/iwyu.com"
+      - "C:/Program Files/bin/iwyu.exe"
+      - "C:/Program Files/bin/iwyu"
+      - "C:/Program Files/sbin/iwyu.com"
+      - "C:/Program Files/sbin/iwyu.exe"
+      - "C:/Program Files/sbin/iwyu"
+      - "C:/Program Files/iwyu.com"
+      - "C:/Program Files/iwyu.exe"
+      - "C:/Program Files/iwyu"
+      - "C:/Program Files (x86)/bin/iwyu.com"
+      - "C:/Program Files (x86)/bin/iwyu.exe"
+      - "C:/Program Files (x86)/bin/iwyu"
+      - "C:/Program Files (x86)/sbin/iwyu.com"
+      - "C:/Program Files (x86)/sbin/iwyu.exe"
+      - "C:/Program Files (x86)/sbin/iwyu"
+      - "C:/Program Files (x86)/iwyu.com"
+      - "C:/Program Files (x86)/iwyu.exe"
+      - "C:/Program Files (x86)/iwyu"
+      - "C:/Program Files/CMake/bin/iwyu.com"
+      - "C:/Program Files/CMake/bin/iwyu.exe"
+      - "C:/Program Files/CMake/bin/iwyu"
+      - "C:/Program Files/CMake/sbin/iwyu.com"
+      - "C:/Program Files/CMake/sbin/iwyu.exe"
+      - "C:/Program Files/CMake/sbin/iwyu"
+      - "C:/Program Files/CMake/iwyu.com"
+      - "C:/Program Files/CMake/iwyu.exe"
+      - "C:/Program Files/CMake/iwyu"
+      - "C:/Program Files (x86)/PokemonGame/bin/iwyu.com"
+      - "C:/Program Files (x86)/PokemonGame/bin/iwyu.exe"
+      - "C:/Program Files (x86)/PokemonGame/bin/iwyu"
+      - "C:/Program Files (x86)/PokemonGame/sbin/iwyu.com"
+      - "C:/Program Files (x86)/PokemonGame/sbin/iwyu.exe"
+      - "C:/Program Files (x86)/PokemonGame/sbin/iwyu"
+      - "C:/Program Files (x86)/PokemonGame/iwyu.com"
+      - "C:/Program Files (x86)/PokemonGame/iwyu.exe"
+      - "C:/Program Files (x86)/PokemonGame/iwyu"
+    found: false
+    search_context:
+      ENV{PATH}:
+        - "C:\\mingw64\\bin"
+        - "C:\\mingw64\\bin"
+        - "C:\\mingw64\\bin"
+        - "C:\\usr\\bin"
+        - "C:/Program Files (x86)/oh-my-posh/bin/"
+        - "C:/WINDOWS/system32"
+        - "C:/WINDOWS"
+        - "C:/WINDOWS/System32/Wbem"
+        - "C:/WINDOWS/System32/WindowsPowerShell/v1.0/"
+        - "C:/WINDOWS/System32/OpenSSH/"
+        - "C:/ProgramData/chocolatey/bin"
+        - "C:/ProgramData/mingw64/mingw64/bin"
+        - "C:/Program Files/LLVM/bin"
+        - "C:\\Program Files (x86)\\LLVM\\bin"
+        - "C:/Program Files/starship/bin/"
+        - "C:\\Program Files\\CMake\\bin"
+        - "C:/Program Files/nodejs/"
+        - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
+        - "C:/Program Files/Neovim/bin"
+        - "C:\\Program Files\\Git\\cmd"
+        - "C:/Program Files/PowerShell/7/"
+        - "C:\\Program Files (x86)\\oh-my-posh\\bin\\"
+        - "C:\\WINDOWS\\system32"
+        - "C:/WINDOWS"
+        - "C:\\WINDOWS\\System32\\Wbem"
+        - "C:/WINDOWS/System32/WindowsPowerShell/v1.0/"
+        - "C:\\WINDOWS\\System32\\OpenSSH\\"
+        - "C:/Program Files/Neovim/bin"
+        - "C:/ProgramData/chocolatey/bin"
+        - "C:\\Program Files\\Git\\cmd"
+        - "C:\\ProgramData\\mingw64\\mingw64\\bin"
+        - "C:\\Program Files (x86)\\LLVM\\bin"
+        - "C:/Program Files/starship/bin/"
+        - "C:\\Program Files\\CMake\\bin"
+        - "C:/Users/wisdo/.cargo/bin"
+        - "C:\\Users\\wisdo\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\"
+        - "C:/Users/wisdo/AppData/Local/Programs/Python/Python312/"
+        - "C:\\WINDOWS\\system32"
+        - "C:\\WINDOWS"
+        - "C:\\WINDOWS\\System32\\Wbem"
+        - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\WINDOWS\\System32\\OpenSSH\\"
+        - "C:/Program Files/starship/bin/"
+        - "C:\\Program Files\\Git\\cmd"
+        - "C:\\Program Files\\Neovim\\bin"
+        - "C:\\Users\\wisdo\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:/Users/wisdo/AppData/Local/Programs/Python/Python312"
+        - "C:\\Users\\wisdo\\AppData\\Local\\Programs\\Python\\Python312\\Scripts"
+        - "C:/Users/wisdo/AppData/Local/nvim-data/mason/bin"
+        - "C:\\tools\\neovim\\nvim-win64\\bin"
+        - "C:/Users/wisdo/AppData/Local/Microsoft/WinGet/Packages/BurntSushi.ripgrep.MSVC_Microsoft.Winget.Source_8wekyb3d8bbwe/ripgrep-15.1.0-x86_64-pc-windows-msvc"
+        - "C:\\Users\\wisdo\\AppData\\Local\\Microsoft\\WinGet\\Packages\\JesseDuffield.lazygit_Microsoft.Winget.Source_8wekyb3d8bbwe"
+        - "C:/Users/wisdo/.cargo/bin"
+        - "C:\\Users\\wisdo\\AppData\\Roaming\\npm"
+        - "C:/Users/wisdo/AppData/Local/Microsoft/WinGet/Packages/Helix.Helix_Microsoft.Winget.Source_8wekyb3d8bbwe/helix-25.07.1-x86_64-windows"
+        - "C:\\Users\\wisdo\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
+        - "C:/mingw64/bin"
+        - "C:\\Users\\wisdo\\AppData\\Local\\Microsoft\\WinGet\\Packages\\sharkdp.fd_Microsoft.Winget.Source_8wekyb3d8bbwe\\fd-v10.3.0-x86_64-pc-windows-msvc"
+        - "C:/Users/wisdo/AppData/Local/Microsoft/WinGet/Packages/JernejSimoncic.Wget_Microsoft.Winget.Source_8wekyb3d8bbwe"
+        - "C:\\Users\\wisdo\\AppData\\Local\\Programs\\Microsoft VS Code Insiders\\bin"
+        - "C:/Users/wisdo/AppData/Local/Python/bin"
+      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/PokemonGame"
+      CMAKE_SYSTEM_PREFIX_PATH:
+        - "/mingw64"
+        - "C:/Program Files"
+        - "C:/Program Files (x86)"
+        - "C:/Program Files/CMake"
+        - "C:/Program Files (x86)/PokemonGame"
 ...

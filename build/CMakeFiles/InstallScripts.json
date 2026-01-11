@@ -1,7 +1,10 @@
 {
 	"InstallScripts" : 
 	[
-		"C:/Users/wisdo/OneDrive/Desktop/my_codes/pokemon/build/cmake_install.cmake"
+		"C:/Users/wisdo/OneDrive/Desktop/my_codes/pokemon/build/cmake_install.cmake",
+		"C:/Users/wisdo/OneDrive/Desktop/my_codes/pokemon/build/ftxui-build/cmake_install.cmake",
+		"C:/Users/wisdo/OneDrive/Desktop/my_codes/pokemon/build/ftxui-build/examples/cmake_install.cmake",
+		"C:/Users/wisdo/OneDrive/Desktop/my_codes/pokemon/build/ftxui-build/doc/cmake_install.cmake"
 	],
 	"Parallel" : false
 }

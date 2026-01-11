@@ -57,5 +57,6 @@
     "xtree": "cpp",
     "xutility": "cpp"
   },
-  "C_Cpp.default.compilerPath": "C:ingw64\bin/g++.exe"
+  "C_Cpp.default.compilerPath": "C:/mingw64/bin/g++.exe",
+  "C_Cpp.codeAnalysis.clangTidy.enabled": false
 }

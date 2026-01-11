@@ -1,12 +1,18 @@
 cmake_minimum_required(VERSION 3.10)
 project(PokemonGame CXX)
 
-# Use C++17
+# Use C++20
 set(CMAKE_CXX_STANDARD 20)
 set(CMAKE_CXX_STANDARD_REQUIRED True)
 
 # Tell the compiler to look inside the "headers" folder for includes
 include_directories(headers)
+
+# Add FTXUI from its location
+add_subdirectory(C:/Users/wisdo/FTXUI ${CMAKE_BINARY_DIR}/ftxui-build)
+
+# Remove this line - not needed!
+# include_directories(C:/Users/wisdo/FTXUI/include)
 
 # List all source files that need to be compiled
 add_executable(main
@@ -14,4 +20,11 @@ add_executable(main
     source/player.cpp
     source/pokemon.cpp
     source/type.cpp
+)
+
+# Link FTXUI libraries
+target_link_libraries(main
+    PRIVATE ftxui::screen
+    PRIVATE ftxui::dom
+    PRIVATE ftxui::component
 )

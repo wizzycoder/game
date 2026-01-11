@@ -22,5 +22,461 @@
   "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/main.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\main.dir\\source\\type.cpp.obj -c C:\\Users\\wisdo\\OneDrive\\Desktop\\my_codes\\pokemon\\source\\type.cpp",
   "file": "C:/Users/wisdo/OneDrive/Desktop/my_codes/pokemon/source/type.cpp",
   "output": "CMakeFiles/main.dir/source/type.cpp.obj"
+},
+{
+  "directory": "C:/Users/wisdo/OneDrive/Desktop/my_codes/pokemon/build/ftxui-build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE @CMakeFiles/screen.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\screen.dir\\src\\ftxui\\screen\\box.cpp.obj -c C:\\Users\\wisdo\\FTXUI\\src\\ftxui\\screen\\box.cpp",
+  "file": "C:/Users/wisdo/FTXUI/src/ftxui/screen/box.cpp",
+  "output": "ftxui-build/CMakeFiles/screen.dir/src/ftxui/screen/box.cpp.obj"
+},
+{
+  "directory": "C:/Users/wisdo/OneDrive/Desktop/my_codes/pokemon/build/ftxui-build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE @CMakeFiles/screen.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\screen.dir\\src\\ftxui\\screen\\color.cpp.obj -c C:\\Users\\wisdo\\FTXUI\\src\\ftxui\\screen\\color.cpp",
+  "file": "C:/Users/wisdo/FTXUI/src/ftxui/screen/color.cpp",
+  "output": "ftxui-build/CMakeFiles/screen.dir/src/ftxui/screen/color.cpp.obj"
+},
+{
+  "directory": "C:/Users/wisdo/OneDrive/Desktop/my_codes/pokemon/build/ftxui-build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE @CMakeFiles/screen.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\screen.dir\\src\\ftxui\\screen\\color_info.cpp.obj -c C:\\Users\\wisdo\\FTXUI\\src\\ftxui\\screen\\color_info.cpp",
+  "file": "C:/Users/wisdo/FTXUI/src/ftxui/screen/color_info.cpp",
+  "output": "ftxui-build/CMakeFiles/screen.dir/src/ftxui/screen/color_info.cpp.obj"
+},
+{
+  "directory": "C:/Users/wisdo/OneDrive/Desktop/my_codes/pokemon/build/ftxui-build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE @CMakeFiles/screen.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\screen.dir\\src\\ftxui\\screen\\image.cpp.obj -c C:\\Users\\wisdo\\FTXUI\\src\\ftxui\\screen\\image.cpp",
+  "file": "C:/Users/wisdo/FTXUI/src/ftxui/screen/image.cpp",
+  "output": "ftxui-build/CMakeFiles/screen.dir/src/ftxui/screen/image.cpp.obj"
+},
+{
+  "directory": "C:/Users/wisdo/OneDrive/Desktop/my_codes/pokemon/build/ftxui-build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE @CMakeFiles/screen.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\screen.dir\\src\\ftxui\\screen\\screen.cpp.obj -c C:\\Users\\wisdo\\FTXUI\\src\\ftxui\\screen\\screen.cpp",
+  "file": "C:/Users/wisdo/FTXUI/src/ftxui/screen/screen.cpp",
+  "output": "ftxui-build/CMakeFiles/screen.dir/src/ftxui/screen/screen.cpp.obj"
+},
+{
+  "directory": "C:/Users/wisdo/OneDrive/Desktop/my_codes/pokemon/build/ftxui-build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE @CMakeFiles/screen.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\screen.dir\\src\\ftxui\\screen\\string.cpp.obj -c C:\\Users\\wisdo\\FTXUI\\src\\ftxui\\screen\\string.cpp",
+  "file": "C:/Users/wisdo/FTXUI/src/ftxui/screen/string.cpp",
+  "output": "ftxui-build/CMakeFiles/screen.dir/src/ftxui/screen/string.cpp.obj"
+},
+{
+  "directory": "C:/Users/wisdo/OneDrive/Desktop/my_codes/pokemon/build/ftxui-build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE @CMakeFiles/screen.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\screen.dir\\src\\ftxui\\screen\\terminal.cpp.obj -c C:\\Users\\wisdo\\FTXUI\\src\\ftxui\\screen\\terminal.cpp",
+  "file": "C:/Users/wisdo/FTXUI/src/ftxui/screen/terminal.cpp",
+  "output": "ftxui-build/CMakeFiles/screen.dir/src/ftxui/screen/terminal.cpp.obj"
+},
+{
+  "directory": "C:/Users/wisdo/OneDrive/Desktop/my_codes/pokemon/build/ftxui-build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE @CMakeFiles/dom.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\dom.dir\\src\\ftxui\\dom\\automerge.cpp.obj -c C:\\Users\\wisdo\\FTXUI\\src\\ftxui\\dom\\automerge.cpp",
+  "file": "C:/Users/wisdo/FTXUI/src/ftxui/dom/automerge.cpp",
+  "output": "ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/automerge.cpp.obj"
+},
+{
+  "directory": "C:/Users/wisdo/OneDrive/Desktop/my_codes/pokemon/build/ftxui-build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE @CMakeFiles/dom.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\dom.dir\\src\\ftxui\\dom\\selection_style.cpp.obj -c C:\\Users\\wisdo\\FTXUI\\src\\ftxui\\dom\\selection_style.cpp",
+  "file": "C:/Users/wisdo/FTXUI/src/ftxui/dom/selection_style.cpp",
+  "output": "ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/selection_style.cpp.obj"
+},
+{
+  "directory": "C:/Users/wisdo/OneDrive/Desktop/my_codes/pokemon/build/ftxui-build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE @CMakeFiles/dom.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\dom.dir\\src\\ftxui\\dom\\blink.cpp.obj -c C:\\Users\\wisdo\\FTXUI\\src\\ftxui\\dom\\blink.cpp",
+  "file": "C:/Users/wisdo/FTXUI/src/ftxui/dom/blink.cpp",
+  "output": "ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/blink.cpp.obj"
+},
+{
+  "directory": "C:/Users/wisdo/OneDrive/Desktop/my_codes/pokemon/build/ftxui-build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE @CMakeFiles/dom.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\dom.dir\\src\\ftxui\\dom\\bold.cpp.obj -c C:\\Users\\wisdo\\FTXUI\\src\\ftxui\\dom\\bold.cpp",
+  "file": "C:/Users/wisdo/FTXUI/src/ftxui/dom/bold.cpp",
+  "output": "ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/bold.cpp.obj"
+},
+{
+  "directory": "C:/Users/wisdo/OneDrive/Desktop/my_codes/pokemon/build/ftxui-build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE @CMakeFiles/dom.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\dom.dir\\src\\ftxui\\dom\\border.cpp.obj -c C:\\Users\\wisdo\\FTXUI\\src\\ftxui\\dom\\border.cpp",
+  "file": "C:/Users/wisdo/FTXUI/src/ftxui/dom/border.cpp",
+  "output": "ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/border.cpp.obj"
+},
+{
+  "directory": "C:/Users/wisdo/OneDrive/Desktop/my_codes/pokemon/build/ftxui-build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE @CMakeFiles/dom.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\dom.dir\\src\\ftxui\\dom\\box_helper.cpp.obj -c C:\\Users\\wisdo\\FTXUI\\src\\ftxui\\dom\\box_helper.cpp",
+  "file": "C:/Users/wisdo/FTXUI/src/ftxui/dom/box_helper.cpp",
+  "output": "ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/box_helper.cpp.obj"
+},
+{
+  "directory": "C:/Users/wisdo/OneDrive/Desktop/my_codes/pokemon/build/ftxui-build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE @CMakeFiles/dom.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\dom.dir\\src\\ftxui\\dom\\canvas.cpp.obj -c C:\\Users\\wisdo\\FTXUI\\src\\ftxui\\dom\\canvas.cpp",
+  "file": "C:/Users/wisdo/FTXUI/src/ftxui/dom/canvas.cpp",
+  "output": "ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/canvas.cpp.obj"
+},
+{
+  "directory": "C:/Users/wisdo/OneDrive/Desktop/my_codes/pokemon/build/ftxui-build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE @CMakeFiles/dom.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\dom.dir\\src\\ftxui\\dom\\clear_under.cpp.obj -c C:\\Users\\wisdo\\FTXUI\\src\\ftxui\\dom\\clear_under.cpp",
+  "file": "C:/Users/wisdo/FTXUI/src/ftxui/dom/clear_under.cpp",
+  "output": "ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/clear_under.cpp.obj"
+},
+{
+  "directory": "C:/Users/wisdo/OneDrive/Desktop/my_codes/pokemon/build/ftxui-build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE @CMakeFiles/dom.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\dom.dir\\src\\ftxui\\dom\\color.cpp.obj -c C:\\Users\\wisdo\\FTXUI\\src\\ftxui\\dom\\color.cpp",
+  "file": "C:/Users/wisdo/FTXUI/src/ftxui/dom/color.cpp",
+  "output": "ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/color.cpp.obj"
+},
+{
+  "directory": "C:/Users/wisdo/OneDrive/Desktop/my_codes/pokemon/build/ftxui-build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE @CMakeFiles/dom.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\dom.dir\\src\\ftxui\\dom\\composite_decorator.cpp.obj -c C:\\Users\\wisdo\\FTXUI\\src\\ftxui\\dom\\composite_decorator.cpp",
+  "file": "C:/Users/wisdo/FTXUI/src/ftxui/dom/composite_decorator.cpp",
+  "output": "ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/composite_decorator.cpp.obj"
+},
+{
+  "directory": "C:/Users/wisdo/OneDrive/Desktop/my_codes/pokemon/build/ftxui-build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE @CMakeFiles/dom.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\dom.dir\\src\\ftxui\\dom\\dbox.cpp.obj -c C:\\Users\\wisdo\\FTXUI\\src\\ftxui\\dom\\dbox.cpp",
+  "file": "C:/Users/wisdo/FTXUI/src/ftxui/dom/dbox.cpp",
+  "output": "ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/dbox.cpp.obj"
+},
+{
+  "directory": "C:/Users/wisdo/OneDrive/Desktop/my_codes/pokemon/build/ftxui-build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE @CMakeFiles/dom.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\dom.dir\\src\\ftxui\\dom\\dim.cpp.obj -c C:\\Users\\wisdo\\FTXUI\\src\\ftxui\\dom\\dim.cpp",
+  "file": "C:/Users/wisdo/FTXUI/src/ftxui/dom/dim.cpp",
+  "output": "ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/dim.cpp.obj"
+},
+{
+  "directory": "C:/Users/wisdo/OneDrive/Desktop/my_codes/pokemon/build/ftxui-build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE @CMakeFiles/dom.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\dom.dir\\src\\ftxui\\dom\\flex.cpp.obj -c C:\\Users\\wisdo\\FTXUI\\src\\ftxui\\dom\\flex.cpp",
+  "file": "C:/Users/wisdo/FTXUI/src/ftxui/dom/flex.cpp",
+  "output": "ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/flex.cpp.obj"
+},
+{
+  "directory": "C:/Users/wisdo/OneDrive/Desktop/my_codes/pokemon/build/ftxui-build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE @CMakeFiles/dom.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\dom.dir\\src\\ftxui\\dom\\flexbox.cpp.obj -c C:\\Users\\wisdo\\FTXUI\\src\\ftxui\\dom\\flexbox.cpp",
+  "file": "C:/Users/wisdo/FTXUI/src/ftxui/dom/flexbox.cpp",
+  "output": "ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/flexbox.cpp.obj"
+},
+{
+  "directory": "C:/Users/wisdo/OneDrive/Desktop/my_codes/pokemon/build/ftxui-build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE @CMakeFiles/dom.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\dom.dir\\src\\ftxui\\dom\\flexbox_config.cpp.obj -c C:\\Users\\wisdo\\FTXUI\\src\\ftxui\\dom\\flexbox_config.cpp",
+  "file": "C:/Users/wisdo/FTXUI/src/ftxui/dom/flexbox_config.cpp",
+  "output": "ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/flexbox_config.cpp.obj"
+},
+{
+  "directory": "C:/Users/wisdo/OneDrive/Desktop/my_codes/pokemon/build/ftxui-build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE @CMakeFiles/dom.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\dom.dir\\src\\ftxui\\dom\\flexbox_helper.cpp.obj -c C:\\Users\\wisdo\\FTXUI\\src\\ftxui\\dom\\flexbox_helper.cpp",
+  "file": "C:/Users/wisdo/FTXUI/src/ftxui/dom/flexbox_helper.cpp",
+  "output": "ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/flexbox_helper.cpp.obj"
+},
+{
+  "directory": "C:/Users/wisdo/OneDrive/Desktop/my_codes/pokemon/build/ftxui-build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE @CMakeFiles/dom.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\dom.dir\\src\\ftxui\\dom\\focus.cpp.obj -c C:\\Users\\wisdo\\FTXUI\\src\\ftxui\\dom\\focus.cpp",
+  "file": "C:/Users/wisdo/FTXUI/src/ftxui/dom/focus.cpp",
+  "output": "ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/focus.cpp.obj"
+},
+{
+  "directory": "C:/Users/wisdo/OneDrive/Desktop/my_codes/pokemon/build/ftxui-build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE @CMakeFiles/dom.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\dom.dir\\src\\ftxui\\dom\\frame.cpp.obj -c C:\\Users\\wisdo\\FTXUI\\src\\ftxui\\dom\\frame.cpp",
+  "file": "C:/Users/wisdo/FTXUI/src/ftxui/dom/frame.cpp",
+  "output": "ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/frame.cpp.obj"
+},
+{
+  "directory": "C:/Users/wisdo/OneDrive/Desktop/my_codes/pokemon/build/ftxui-build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE @CMakeFiles/dom.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\dom.dir\\src\\ftxui\\dom\\gauge.cpp.obj -c C:\\Users\\wisdo\\FTXUI\\src\\ftxui\\dom\\gauge.cpp",
+  "file": "C:/Users/wisdo/FTXUI/src/ftxui/dom/gauge.cpp",
+  "output": "ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/gauge.cpp.obj"
+},
+{
+  "directory": "C:/Users/wisdo/OneDrive/Desktop/my_codes/pokemon/build/ftxui-build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE @CMakeFiles/dom.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\dom.dir\\src\\ftxui\\dom\\graph.cpp.obj -c C:\\Users\\wisdo\\FTXUI\\src\\ftxui\\dom\\graph.cpp",
+  "file": "C:/Users/wisdo/FTXUI/src/ftxui/dom/graph.cpp",
+  "output": "ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/graph.cpp.obj"
+},
+{
+  "directory": "C:/Users/wisdo/OneDrive/Desktop/my_codes/pokemon/build/ftxui-build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE @CMakeFiles/dom.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\dom.dir\\src\\ftxui\\dom\\gridbox.cpp.obj -c C:\\Users\\wisdo\\FTXUI\\src\\ftxui\\dom\\gridbox.cpp",
+  "file": "C:/Users/wisdo/FTXUI/src/ftxui/dom/gridbox.cpp",
+  "output": "ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/gridbox.cpp.obj"
+},
+{
+  "directory": "C:/Users/wisdo/OneDrive/Desktop/my_codes/pokemon/build/ftxui-build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE @CMakeFiles/dom.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\dom.dir\\src\\ftxui\\dom\\hbox.cpp.obj -c C:\\Users\\wisdo\\FTXUI\\src\\ftxui\\dom\\hbox.cpp",
+  "file": "C:/Users/wisdo/FTXUI/src/ftxui/dom/hbox.cpp",
+  "output": "ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/hbox.cpp.obj"
+},
+{
+  "directory": "C:/Users/wisdo/OneDrive/Desktop/my_codes/pokemon/build/ftxui-build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE @CMakeFiles/dom.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\dom.dir\\src\\ftxui\\dom\\hyperlink.cpp.obj -c C:\\Users\\wisdo\\FTXUI\\src\\ftxui\\dom\\hyperlink.cpp",
+  "file": "C:/Users/wisdo/FTXUI/src/ftxui/dom/hyperlink.cpp",
+  "output": "ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/hyperlink.cpp.obj"
+},
+{
+  "directory": "C:/Users/wisdo/OneDrive/Desktop/my_codes/pokemon/build/ftxui-build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE @CMakeFiles/dom.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\dom.dir\\src\\ftxui\\dom\\inverted.cpp.obj -c C:\\Users\\wisdo\\FTXUI\\src\\ftxui\\dom\\inverted.cpp",
+  "file": "C:/Users/wisdo/FTXUI/src/ftxui/dom/inverted.cpp",
+  "output": "ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/inverted.cpp.obj"
+},
+{
+  "directory": "C:/Users/wisdo/OneDrive/Desktop/my_codes/pokemon/build/ftxui-build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE @CMakeFiles/dom.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\dom.dir\\src\\ftxui\\dom\\italic.cpp.obj -c C:\\Users\\wisdo\\FTXUI\\src\\ftxui\\dom\\italic.cpp",
+  "file": "C:/Users/wisdo/FTXUI/src/ftxui/dom/italic.cpp",
+  "output": "ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/italic.cpp.obj"
+},
+{
+  "directory": "C:/Users/wisdo/OneDrive/Desktop/my_codes/pokemon/build/ftxui-build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE @CMakeFiles/dom.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\dom.dir\\src\\ftxui\\dom\\linear_gradient.cpp.obj -c C:\\Users\\wisdo\\FTXUI\\src\\ftxui\\dom\\linear_gradient.cpp",
+  "file": "C:/Users/wisdo/FTXUI/src/ftxui/dom/linear_gradient.cpp",
+  "output": "ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/linear_gradient.cpp.obj"
+},
+{
+  "directory": "C:/Users/wisdo/OneDrive/Desktop/my_codes/pokemon/build/ftxui-build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE @CMakeFiles/dom.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\dom.dir\\src\\ftxui\\dom\\node.cpp.obj -c C:\\Users\\wisdo\\FTXUI\\src\\ftxui\\dom\\node.cpp",
+  "file": "C:/Users/wisdo/FTXUI/src/ftxui/dom/node.cpp",
+  "output": "ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/node.cpp.obj"
+},
+{
+  "directory": "C:/Users/wisdo/OneDrive/Desktop/my_codes/pokemon/build/ftxui-build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE @CMakeFiles/dom.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\dom.dir\\src\\ftxui\\dom\\node_decorator.cpp.obj -c C:\\Users\\wisdo\\FTXUI\\src\\ftxui\\dom\\node_decorator.cpp",
+  "file": "C:/Users/wisdo/FTXUI/src/ftxui/dom/node_decorator.cpp",
+  "output": "ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/node_decorator.cpp.obj"
+},
+{
+  "directory": "C:/Users/wisdo/OneDrive/Desktop/my_codes/pokemon/build/ftxui-build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE @CMakeFiles/dom.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\dom.dir\\src\\ftxui\\dom\\paragraph.cpp.obj -c C:\\Users\\wisdo\\FTXUI\\src\\ftxui\\dom\\paragraph.cpp",
+  "file": "C:/Users/wisdo/FTXUI/src/ftxui/dom/paragraph.cpp",
+  "output": "ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/paragraph.cpp.obj"
+},
+{
+  "directory": "C:/Users/wisdo/OneDrive/Desktop/my_codes/pokemon/build/ftxui-build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE @CMakeFiles/dom.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\dom.dir\\src\\ftxui\\dom\\reflect.cpp.obj -c C:\\Users\\wisdo\\FTXUI\\src\\ftxui\\dom\\reflect.cpp",
+  "file": "C:/Users/wisdo/FTXUI/src/ftxui/dom/reflect.cpp",
+  "output": "ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/reflect.cpp.obj"
+},
+{
+  "directory": "C:/Users/wisdo/OneDrive/Desktop/my_codes/pokemon/build/ftxui-build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE @CMakeFiles/dom.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\dom.dir\\src\\ftxui\\dom\\scroll_indicator.cpp.obj -c C:\\Users\\wisdo\\FTXUI\\src\\ftxui\\dom\\scroll_indicator.cpp",
+  "file": "C:/Users/wisdo/FTXUI/src/ftxui/dom/scroll_indicator.cpp",
+  "output": "ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/scroll_indicator.cpp.obj"
+},
+{
+  "directory": "C:/Users/wisdo/OneDrive/Desktop/my_codes/pokemon/build/ftxui-build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE @CMakeFiles/dom.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\dom.dir\\src\\ftxui\\dom\\selection.cpp.obj -c C:\\Users\\wisdo\\FTXUI\\src\\ftxui\\dom\\selection.cpp",
+  "file": "C:/Users/wisdo/FTXUI/src/ftxui/dom/selection.cpp",
+  "output": "ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/selection.cpp.obj"
+},
+{
+  "directory": "C:/Users/wisdo/OneDrive/Desktop/my_codes/pokemon/build/ftxui-build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE @CMakeFiles/dom.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\dom.dir\\src\\ftxui\\dom\\separator.cpp.obj -c C:\\Users\\wisdo\\FTXUI\\src\\ftxui\\dom\\separator.cpp",
+  "file": "C:/Users/wisdo/FTXUI/src/ftxui/dom/separator.cpp",
+  "output": "ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/separator.cpp.obj"
+},
+{
+  "directory": "C:/Users/wisdo/OneDrive/Desktop/my_codes/pokemon/build/ftxui-build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE @CMakeFiles/dom.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\dom.dir\\src\\ftxui\\dom\\size.cpp.obj -c C:\\Users\\wisdo\\FTXUI\\src\\ftxui\\dom\\size.cpp",
+  "file": "C:/Users/wisdo/FTXUI/src/ftxui/dom/size.cpp",
+  "output": "ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/size.cpp.obj"
+},
+{
+  "directory": "C:/Users/wisdo/OneDrive/Desktop/my_codes/pokemon/build/ftxui-build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE @CMakeFiles/dom.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\dom.dir\\src\\ftxui\\dom\\spinner.cpp.obj -c C:\\Users\\wisdo\\FTXUI\\src\\ftxui\\dom\\spinner.cpp",
+  "file": "C:/Users/wisdo/FTXUI/src/ftxui/dom/spinner.cpp",
+  "output": "ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/spinner.cpp.obj"
+},
+{
+  "directory": "C:/Users/wisdo/OneDrive/Desktop/my_codes/pokemon/build/ftxui-build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE @CMakeFiles/dom.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\dom.dir\\src\\ftxui\\dom\\strikethrough.cpp.obj -c C:\\Users\\wisdo\\FTXUI\\src\\ftxui\\dom\\strikethrough.cpp",
+  "file": "C:/Users/wisdo/FTXUI/src/ftxui/dom/strikethrough.cpp",
+  "output": "ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/strikethrough.cpp.obj"
+},
+{
+  "directory": "C:/Users/wisdo/OneDrive/Desktop/my_codes/pokemon/build/ftxui-build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE @CMakeFiles/dom.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\dom.dir\\src\\ftxui\\dom\\table.cpp.obj -c C:\\Users\\wisdo\\FTXUI\\src\\ftxui\\dom\\table.cpp",
+  "file": "C:/Users/wisdo/FTXUI/src/ftxui/dom/table.cpp",
+  "output": "ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/table.cpp.obj"
+},
+{
+  "directory": "C:/Users/wisdo/OneDrive/Desktop/my_codes/pokemon/build/ftxui-build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE @CMakeFiles/dom.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\dom.dir\\src\\ftxui\\dom\\text.cpp.obj -c C:\\Users\\wisdo\\FTXUI\\src\\ftxui\\dom\\text.cpp",
+  "file": "C:/Users/wisdo/FTXUI/src/ftxui/dom/text.cpp",
+  "output": "ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/text.cpp.obj"
+},
+{
+  "directory": "C:/Users/wisdo/OneDrive/Desktop/my_codes/pokemon/build/ftxui-build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE @CMakeFiles/dom.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\dom.dir\\src\\ftxui\\dom\\underlined.cpp.obj -c C:\\Users\\wisdo\\FTXUI\\src\\ftxui\\dom\\underlined.cpp",
+  "file": "C:/Users/wisdo/FTXUI/src/ftxui/dom/underlined.cpp",
+  "output": "ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/underlined.cpp.obj"
+},
+{
+  "directory": "C:/Users/wisdo/OneDrive/Desktop/my_codes/pokemon/build/ftxui-build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE @CMakeFiles/dom.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\dom.dir\\src\\ftxui\\dom\\underlined_double.cpp.obj -c C:\\Users\\wisdo\\FTXUI\\src\\ftxui\\dom\\underlined_double.cpp",
+  "file": "C:/Users/wisdo/FTXUI/src/ftxui/dom/underlined_double.cpp",
+  "output": "ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/underlined_double.cpp.obj"
+},
+{
+  "directory": "C:/Users/wisdo/OneDrive/Desktop/my_codes/pokemon/build/ftxui-build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE @CMakeFiles/dom.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\dom.dir\\src\\ftxui\\dom\\util.cpp.obj -c C:\\Users\\wisdo\\FTXUI\\src\\ftxui\\dom\\util.cpp",
+  "file": "C:/Users/wisdo/FTXUI/src/ftxui/dom/util.cpp",
+  "output": "ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/util.cpp.obj"
+},
+{
+  "directory": "C:/Users/wisdo/OneDrive/Desktop/my_codes/pokemon/build/ftxui-build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE @CMakeFiles/dom.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\dom.dir\\src\\ftxui\\dom\\vbox.cpp.obj -c C:\\Users\\wisdo\\FTXUI\\src\\ftxui\\dom\\vbox.cpp",
+  "file": "C:/Users/wisdo/FTXUI/src/ftxui/dom/vbox.cpp",
+  "output": "ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/vbox.cpp.obj"
+},
+{
+  "directory": "C:/Users/wisdo/OneDrive/Desktop/my_codes/pokemon/build/ftxui-build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE @CMakeFiles/component.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\component.dir\\src\\ftxui\\component\\animation.cpp.obj -c C:\\Users\\wisdo\\FTXUI\\src\\ftxui\\component\\animation.cpp",
+  "file": "C:/Users/wisdo/FTXUI/src/ftxui/component/animation.cpp",
+  "output": "ftxui-build/CMakeFiles/component.dir/src/ftxui/component/animation.cpp.obj"
+},
+{
+  "directory": "C:/Users/wisdo/OneDrive/Desktop/my_codes/pokemon/build/ftxui-build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE @CMakeFiles/component.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\component.dir\\src\\ftxui\\component\\button.cpp.obj -c C:\\Users\\wisdo\\FTXUI\\src\\ftxui\\component\\button.cpp",
+  "file": "C:/Users/wisdo/FTXUI/src/ftxui/component/button.cpp",
+  "output": "ftxui-build/CMakeFiles/component.dir/src/ftxui/component/button.cpp.obj"
+},
+{
+  "directory": "C:/Users/wisdo/OneDrive/Desktop/my_codes/pokemon/build/ftxui-build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE @CMakeFiles/component.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\component.dir\\src\\ftxui\\component\\catch_event.cpp.obj -c C:\\Users\\wisdo\\FTXUI\\src\\ftxui\\component\\catch_event.cpp",
+  "file": "C:/Users/wisdo/FTXUI/src/ftxui/component/catch_event.cpp",
+  "output": "ftxui-build/CMakeFiles/component.dir/src/ftxui/component/catch_event.cpp.obj"
+},
+{
+  "directory": "C:/Users/wisdo/OneDrive/Desktop/my_codes/pokemon/build/ftxui-build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE @CMakeFiles/component.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\component.dir\\src\\ftxui\\component\\checkbox.cpp.obj -c C:\\Users\\wisdo\\FTXUI\\src\\ftxui\\component\\checkbox.cpp",
+  "file": "C:/Users/wisdo/FTXUI/src/ftxui/component/checkbox.cpp",
+  "output": "ftxui-build/CMakeFiles/component.dir/src/ftxui/component/checkbox.cpp.obj"
+},
+{
+  "directory": "C:/Users/wisdo/OneDrive/Desktop/my_codes/pokemon/build/ftxui-build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE @CMakeFiles/component.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\component.dir\\src\\ftxui\\component\\collapsible.cpp.obj -c C:\\Users\\wisdo\\FTXUI\\src\\ftxui\\component\\collapsible.cpp",
+  "file": "C:/Users/wisdo/FTXUI/src/ftxui/component/collapsible.cpp",
+  "output": "ftxui-build/CMakeFiles/component.dir/src/ftxui/component/collapsible.cpp.obj"
+},
+{
+  "directory": "C:/Users/wisdo/OneDrive/Desktop/my_codes/pokemon/build/ftxui-build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE @CMakeFiles/component.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\component.dir\\src\\ftxui\\component\\component.cpp.obj -c C:\\Users\\wisdo\\FTXUI\\src\\ftxui\\component\\component.cpp",
+  "file": "C:/Users/wisdo/FTXUI/src/ftxui/component/component.cpp",
+  "output": "ftxui-build/CMakeFiles/component.dir/src/ftxui/component/component.cpp.obj"
+},
+{
+  "directory": "C:/Users/wisdo/OneDrive/Desktop/my_codes/pokemon/build/ftxui-build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE @CMakeFiles/component.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\component.dir\\src\\ftxui\\component\\component_options.cpp.obj -c C:\\Users\\wisdo\\FTXUI\\src\\ftxui\\component\\component_options.cpp",
+  "file": "C:/Users/wisdo/FTXUI/src/ftxui/component/component_options.cpp",
+  "output": "ftxui-build/CMakeFiles/component.dir/src/ftxui/component/component_options.cpp.obj"
+},
+{
+  "directory": "C:/Users/wisdo/OneDrive/Desktop/my_codes/pokemon/build/ftxui-build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE @CMakeFiles/component.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\component.dir\\src\\ftxui\\component\\container.cpp.obj -c C:\\Users\\wisdo\\FTXUI\\src\\ftxui\\component\\container.cpp",
+  "file": "C:/Users/wisdo/FTXUI/src/ftxui/component/container.cpp",
+  "output": "ftxui-build/CMakeFiles/component.dir/src/ftxui/component/container.cpp.obj"
+},
+{
+  "directory": "C:/Users/wisdo/OneDrive/Desktop/my_codes/pokemon/build/ftxui-build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE @CMakeFiles/component.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\component.dir\\src\\ftxui\\component\\dropdown.cpp.obj -c C:\\Users\\wisdo\\FTXUI\\src\\ftxui\\component\\dropdown.cpp",
+  "file": "C:/Users/wisdo/FTXUI/src/ftxui/component/dropdown.cpp",
+  "output": "ftxui-build/CMakeFiles/component.dir/src/ftxui/component/dropdown.cpp.obj"
+},
+{
+  "directory": "C:/Users/wisdo/OneDrive/Desktop/my_codes/pokemon/build/ftxui-build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE @CMakeFiles/component.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\component.dir\\src\\ftxui\\component\\event.cpp.obj -c C:\\Users\\wisdo\\FTXUI\\src\\ftxui\\component\\event.cpp",
+  "file": "C:/Users/wisdo/FTXUI/src/ftxui/component/event.cpp",
+  "output": "ftxui-build/CMakeFiles/component.dir/src/ftxui/component/event.cpp.obj"
+},
+{
+  "directory": "C:/Users/wisdo/OneDrive/Desktop/my_codes/pokemon/build/ftxui-build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE @CMakeFiles/component.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\component.dir\\src\\ftxui\\component\\hoverable.cpp.obj -c C:\\Users\\wisdo\\FTXUI\\src\\ftxui\\component\\hoverable.cpp",
+  "file": "C:/Users/wisdo/FTXUI/src/ftxui/component/hoverable.cpp",
+  "output": "ftxui-build/CMakeFiles/component.dir/src/ftxui/component/hoverable.cpp.obj"
+},
+{
+  "directory": "C:/Users/wisdo/OneDrive/Desktop/my_codes/pokemon/build/ftxui-build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE @CMakeFiles/component.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\component.dir\\src\\ftxui\\component\\input.cpp.obj -c C:\\Users\\wisdo\\FTXUI\\src\\ftxui\\component\\input.cpp",
+  "file": "C:/Users/wisdo/FTXUI/src/ftxui/component/input.cpp",
+  "output": "ftxui-build/CMakeFiles/component.dir/src/ftxui/component/input.cpp.obj"
+},
+{
+  "directory": "C:/Users/wisdo/OneDrive/Desktop/my_codes/pokemon/build/ftxui-build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE @CMakeFiles/component.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\component.dir\\src\\ftxui\\component\\loop.cpp.obj -c C:\\Users\\wisdo\\FTXUI\\src\\ftxui\\component\\loop.cpp",
+  "file": "C:/Users/wisdo/FTXUI/src/ftxui/component/loop.cpp",
+  "output": "ftxui-build/CMakeFiles/component.dir/src/ftxui/component/loop.cpp.obj"
+},
+{
+  "directory": "C:/Users/wisdo/OneDrive/Desktop/my_codes/pokemon/build/ftxui-build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE @CMakeFiles/component.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\component.dir\\src\\ftxui\\component\\maybe.cpp.obj -c C:\\Users\\wisdo\\FTXUI\\src\\ftxui\\component\\maybe.cpp",
+  "file": "C:/Users/wisdo/FTXUI/src/ftxui/component/maybe.cpp",
+  "output": "ftxui-build/CMakeFiles/component.dir/src/ftxui/component/maybe.cpp.obj"
+},
+{
+  "directory": "C:/Users/wisdo/OneDrive/Desktop/my_codes/pokemon/build/ftxui-build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE @CMakeFiles/component.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\component.dir\\src\\ftxui\\component\\menu.cpp.obj -c C:\\Users\\wisdo\\FTXUI\\src\\ftxui\\component\\menu.cpp",
+  "file": "C:/Users/wisdo/FTXUI/src/ftxui/component/menu.cpp",
+  "output": "ftxui-build/CMakeFiles/component.dir/src/ftxui/component/menu.cpp.obj"
+},
+{
+  "directory": "C:/Users/wisdo/OneDrive/Desktop/my_codes/pokemon/build/ftxui-build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE @CMakeFiles/component.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\component.dir\\src\\ftxui\\component\\modal.cpp.obj -c C:\\Users\\wisdo\\FTXUI\\src\\ftxui\\component\\modal.cpp",
+  "file": "C:/Users/wisdo/FTXUI/src/ftxui/component/modal.cpp",
+  "output": "ftxui-build/CMakeFiles/component.dir/src/ftxui/component/modal.cpp.obj"
+},
+{
+  "directory": "C:/Users/wisdo/OneDrive/Desktop/my_codes/pokemon/build/ftxui-build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE @CMakeFiles/component.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\component.dir\\src\\ftxui\\component\\radiobox.cpp.obj -c C:\\Users\\wisdo\\FTXUI\\src\\ftxui\\component\\radiobox.cpp",
+  "file": "C:/Users/wisdo/FTXUI/src/ftxui/component/radiobox.cpp",
+  "output": "ftxui-build/CMakeFiles/component.dir/src/ftxui/component/radiobox.cpp.obj"
+},
+{
+  "directory": "C:/Users/wisdo/OneDrive/Desktop/my_codes/pokemon/build/ftxui-build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE @CMakeFiles/component.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\component.dir\\src\\ftxui\\component\\renderer.cpp.obj -c C:\\Users\\wisdo\\FTXUI\\src\\ftxui\\component\\renderer.cpp",
+  "file": "C:/Users/wisdo/FTXUI/src/ftxui/component/renderer.cpp",
+  "output": "ftxui-build/CMakeFiles/component.dir/src/ftxui/component/renderer.cpp.obj"
+},
+{
+  "directory": "C:/Users/wisdo/OneDrive/Desktop/my_codes/pokemon/build/ftxui-build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE @CMakeFiles/component.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\component.dir\\src\\ftxui\\component\\resizable_split.cpp.obj -c C:\\Users\\wisdo\\FTXUI\\src\\ftxui\\component\\resizable_split.cpp",
+  "file": "C:/Users/wisdo/FTXUI/src/ftxui/component/resizable_split.cpp",
+  "output": "ftxui-build/CMakeFiles/component.dir/src/ftxui/component/resizable_split.cpp.obj"
+},
+{
+  "directory": "C:/Users/wisdo/OneDrive/Desktop/my_codes/pokemon/build/ftxui-build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE @CMakeFiles/component.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\component.dir\\src\\ftxui\\component\\screen_interactive.cpp.obj -c C:\\Users\\wisdo\\FTXUI\\src\\ftxui\\component\\screen_interactive.cpp",
+  "file": "C:/Users/wisdo/FTXUI/src/ftxui/component/screen_interactive.cpp",
+  "output": "ftxui-build/CMakeFiles/component.dir/src/ftxui/component/screen_interactive.cpp.obj"
+},
+{
+  "directory": "C:/Users/wisdo/OneDrive/Desktop/my_codes/pokemon/build/ftxui-build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE @CMakeFiles/component.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\component.dir\\src\\ftxui\\component\\slider.cpp.obj -c C:\\Users\\wisdo\\FTXUI\\src\\ftxui\\component\\slider.cpp",
+  "file": "C:/Users/wisdo/FTXUI/src/ftxui/component/slider.cpp",
+  "output": "ftxui-build/CMakeFiles/component.dir/src/ftxui/component/slider.cpp.obj"
+},
+{
+  "directory": "C:/Users/wisdo/OneDrive/Desktop/my_codes/pokemon/build/ftxui-build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE @CMakeFiles/component.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\component.dir\\src\\ftxui\\component\\task.cpp.obj -c C:\\Users\\wisdo\\FTXUI\\src\\ftxui\\component\\task.cpp",
+  "file": "C:/Users/wisdo/FTXUI/src/ftxui/component/task.cpp",
+  "output": "ftxui-build/CMakeFiles/component.dir/src/ftxui/component/task.cpp.obj"
+},
+{
+  "directory": "C:/Users/wisdo/OneDrive/Desktop/my_codes/pokemon/build/ftxui-build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE @CMakeFiles/component.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\component.dir\\src\\ftxui\\component\\task_queue.cpp.obj -c C:\\Users\\wisdo\\FTXUI\\src\\ftxui\\component\\task_queue.cpp",
+  "file": "C:/Users/wisdo/FTXUI/src/ftxui/component/task_queue.cpp",
+  "output": "ftxui-build/CMakeFiles/component.dir/src/ftxui/component/task_queue.cpp.obj"
+},
+{
+  "directory": "C:/Users/wisdo/OneDrive/Desktop/my_codes/pokemon/build/ftxui-build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE @CMakeFiles/component.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\component.dir\\src\\ftxui\\component\\task_runner.cpp.obj -c C:\\Users\\wisdo\\FTXUI\\src\\ftxui\\component\\task_runner.cpp",
+  "file": "C:/Users/wisdo/FTXUI/src/ftxui/component/task_runner.cpp",
+  "output": "ftxui-build/CMakeFiles/component.dir/src/ftxui/component/task_runner.cpp.obj"
+},
+{
+  "directory": "C:/Users/wisdo/OneDrive/Desktop/my_codes/pokemon/build/ftxui-build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE @CMakeFiles/component.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\component.dir\\src\\ftxui\\component\\terminal_input_parser.cpp.obj -c C:\\Users\\wisdo\\FTXUI\\src\\ftxui\\component\\terminal_input_parser.cpp",
+  "file": "C:/Users/wisdo/FTXUI/src/ftxui/component/terminal_input_parser.cpp",
+  "output": "ftxui-build/CMakeFiles/component.dir/src/ftxui/component/terminal_input_parser.cpp.obj"
+},
+{
+  "directory": "C:/Users/wisdo/OneDrive/Desktop/my_codes/pokemon/build/ftxui-build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE @CMakeFiles/component.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\component.dir\\src\\ftxui\\component\\util.cpp.obj -c C:\\Users\\wisdo\\FTXUI\\src\\ftxui\\component\\util.cpp",
+  "file": "C:/Users/wisdo/FTXUI/src/ftxui/component/util.cpp",
+  "output": "ftxui-build/CMakeFiles/component.dir/src/ftxui/component/util.cpp.obj"
+},
+{
+  "directory": "C:/Users/wisdo/OneDrive/Desktop/my_codes/pokemon/build/ftxui-build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE @CMakeFiles/component.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\component.dir\\src\\ftxui\\component\\window.cpp.obj -c C:\\Users\\wisdo\\FTXUI\\src\\ftxui\\component\\window.cpp",
+  "file": "C:/Users/wisdo/FTXUI/src/ftxui/component/window.cpp",
+  "output": "ftxui-build/CMakeFiles/component.dir/src/ftxui/component/window.cpp.obj"
 }
 ]

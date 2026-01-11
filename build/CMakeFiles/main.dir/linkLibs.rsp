@@ -1,1 +1,1 @@
- -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 
+ "ftxui-build/libftxui-screen.a" "ftxui-build/libftxui-dom.a" "ftxui-build/libftxui-component.a" "ftxui-build/libftxui-dom.a" "ftxui-build/libftxui-screen.a" -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

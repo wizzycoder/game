@@ -1,49 +1,55 @@
-#include "../headers/player.h"
+#include <ftxui/component/component.hpp>
+#include <ftxui/component/screen_interactive.hpp>
+#include <ftxui/dom/elements.hpp>
+#include <string>
+#include <vector>
+
+#include "player.h"
+#include "pokemon.h"
+
+using namespace ftxui;
 
 int main() {
-    ///    character setup / game stuff
+    // Character setup
     std::string name;
-    std::cout << "enter name: ";
+    std::cout << "Enter name: ";
     std::cin >> name;
+
     Player player(name);
     Pokemon charizard("charizard", Fire);
-    // -------------------------------
 
-    while (true) {
-        std::string option;
+    auto screen = ScreenInteractive::Fullscreen();
 
-        std::cout << ".quit : q\n";
-        std::cout << ".search pokemon : sp\n";
-        std::cout << ".battle random : br\n";
-        std::cout << ".show stats : ss\n";
+    // Menu options
+    int selected = 0;
+    std::vector<std::string> options = {"Search Pokemon", "Random Battle", "Show Stats", "Quit"};
 
-        std::cin >> option;
+    auto menu = Menu(&options, &selected);
 
-        if (option == "q") {
-            break;
-        } else if (option == "sp") {
-            std::cout << "Searching for a wild Pokemon...\n";
-        } else if (option == "br") {
-            std::cout << "Starting a random battle...\n";
-        } else if (option == "ss") {
-            std::cout << "Showing stats...\n";
-            player.Show_stats();
-            continue;
-        } else {
-            std::cout << "Unknown option: " << option << "\n";
+    auto renderer = Renderer(menu, [&] {
+        return vbox({text("=== POKEMON GAME ===") | bold | color(Color::Red) | center,
+                     text("Player: " + name) | color(Color::Yellow), separator(), menu->Render(),
+                     separator(), text("Use arrows to move, Enter to select") | dim | center}) |
+               border;
+    });
+
+    auto component = CatchEvent(renderer, [&](Event event) {
+        if (event == Event::Return) {
+            if (selected == 0) {
+                // Search Pokemon
+            } else if (selected == 1) {
+                // Battle Random
+            } else if (selected == 2) {
+                // Show Stats
+                player.Show_stats();
+            } else if (selected == 3) {
+                screen.ExitLoopClosure()();
+            }
+            return true;
         }
-        break;
-    }
-};
+        return false;
+    });
 
-/* Pokemon search_pokemon(int pokemon_level)
-{
-    std::string option;
-    std::cout << "would you like to claim your level : cl or random pull : rp or random fight :
-rf\n";
-
-    if (option == "cl") {
-
-    }
-
-}*/
+    screen.Loop(component);
+    return 0;
+}
